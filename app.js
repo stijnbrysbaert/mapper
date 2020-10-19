@@ -1,6 +1,14 @@
 const express = require('express')
+const cron = require('node-cron');
+const comunica = require('./index.js');
+
 const app = express()
 const port = 8080
+
+//run query every hour
+cron.schedule('0 * * * *', function() {
+  comunica.cronjob();
+});
 
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*"); // update to match the domain you will make the request from

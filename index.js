@@ -1,12 +1,12 @@
 const fs = require('fs');
 const N3 = require('n3');
-var myFile = fs.createWriteStream("./public/output.ttl");
 
 const newEngine = require('@comunica/actor-init-sparql').newEngine;
 
 const myEngine = newEngine();
 
-async function query() {
+exports.cronjob = async () => {
+  var myFile = fs.createWriteStream("./public/output.ttl");
   const result = await myEngine.query(`
     PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
     PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
@@ -56,7 +56,5 @@ async function query() {
   const quads = await result.quads();
   writer.addQuads(quads);
   writer.end();
+  console.log("written at %s", new Date());
 }
-
-query();
-

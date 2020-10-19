@@ -38,7 +38,7 @@ _:g_02 a geo:Point;
     geo:lat "5.09429E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Asse> a mv:ParkingFacility, tn:Transportobject;
     rdfs:label "Asse";
-    ext:voertuigenBeschikbaar "10"^^xsd:integer;
+    ext:voertuigenBeschikbaar "11"^^xsd:integer;
     ext:totaalPlaatsen "12"^^xsd:integer;
     geonames:nearby <http://irail.be/stations/NMBS/008812070>;
     locn:geometry _:g_03.
@@ -47,7 +47,7 @@ _:g_03 a geo:Point;
     geo:lat "5.09067E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Bergen> a mv:ParkingFacility, tn:Transportobject;
     rdfs:label "Bergen";
-    ext:voertuigenBeschikbaar "3"^^xsd:integer;
+    ext:voertuigenBeschikbaar "2"^^xsd:integer;
     ext:totaalPlaatsen "4"^^xsd:integer;
     geonames:nearby <http://irail.be/stations/NMBS/008881000>;
     locn:geometry _:g_04.
@@ -56,7 +56,7 @@ _:g_04 a geo:Point;
     geo:lat "5.04556E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Brugge> a mv:ParkingFacility, tn:Transportobject;
     rdfs:label "Brugge";
-    ext:voertuigenBeschikbaar "35"^^xsd:integer;
+    ext:voertuigenBeschikbaar "33"^^xsd:integer;
     ext:totaalPlaatsen "70"^^xsd:integer;
     geonames:nearby <http://irail.be/stations/NMBS/008891009>;
     locn:geometry _:g_05.
@@ -65,8 +65,8 @@ _:g_05 a geo:Point;
     geo:lat "5.1197E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Antwerpen-Berchem> a mv:ParkingFacility, tn:Transportobject;
     rdfs:label "Antwerpen-Berchem";
-    ext:voertuigenBeschikbaar "68"^^xsd:integer;
-    ext:totaalPlaatsen "84"^^xsd:integer;
+    ext:voertuigenBeschikbaar "70"^^xsd:integer;
+    ext:totaalPlaatsen "85"^^xsd:integer;
     geonames:nearby <http://irail.be/stations/NMBS/008821121>;
     locn:geometry _:g_06.
 _:g_06 a geo:Point;
@@ -92,7 +92,7 @@ _:g_08 a geo:Point;
     geo:lat "5.08382E1"^^xsd:float.
 <http://irail.be/stations/bluebike/BrusselNoord> a mv:ParkingFacility, tn:Transportobject;
     rdfs:label "Brussel Noord";
-    ext:voertuigenBeschikbaar "27"^^xsd:integer;
+    ext:voertuigenBeschikbaar "25"^^xsd:integer;
     ext:totaalPlaatsen "31"^^xsd:integer;
     geonames:nearby <http://irail.be/stations/NMBS/008812005>;
     locn:geometry _:g_09.
@@ -119,7 +119,7 @@ _:g_011 a geo:Point;
     geo:lat "5.09782E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Dendermonde> a mv:ParkingFacility, tn:Transportobject;
     rdfs:label "Dendermonde";
-    ext:voertuigenBeschikbaar "13"^^xsd:integer;
+    ext:voertuigenBeschikbaar "12"^^xsd:integer;
     ext:totaalPlaatsen "22"^^xsd:integer;
     geonames:nearby <http://irail.be/stations/NMBS/008893401>;
     locn:geometry _:g_012.
@@ -155,7 +155,7 @@ _:g_015 a geo:Point;
     geo:lat "5.1056E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Gent-Sint-Pieters(St.-Denijslaan)> a mv:ParkingFacility, tn:Transportobject;
     rdfs:label "Gent-Sint-Pieters (St.-Denijslaan)";
-    ext:voertuigenBeschikbaar "36"^^xsd:integer;
+    ext:voertuigenBeschikbaar "34"^^xsd:integer;
     ext:totaalPlaatsen "64"^^xsd:integer;
     geonames:nearby <http://irail.be/stations/NMBS/008892007>;
     locn:geometry _:g_016.
@@ -164,7 +164,7 @@ _:g_016 a geo:Point;
     geo:lat "5.10349E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Halle> a mv:ParkingFacility, tn:Transportobject;
     rdfs:label "Halle";
-    ext:voertuigenBeschikbaar "14"^^xsd:integer;
+    ext:voertuigenBeschikbaar "13"^^xsd:integer;
     ext:totaalPlaatsen "21"^^xsd:integer;
     geonames:nearby <http://irail.be/stations/NMBS/008814308>;
     locn:geometry _:g_017.
@@ -173,7 +173,7 @@ _:g_017 a geo:Point;
     geo:lat "5.07334E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Hasselt> a mv:ParkingFacility, tn:Transportobject;
     rdfs:label "Hasselt";
-    ext:voertuigenBeschikbaar "36"^^xsd:integer;
+    ext:voertuigenBeschikbaar "35"^^xsd:integer;
     ext:totaalPlaatsen "56"^^xsd:integer;
     geonames:nearby <http://irail.be/stations/NMBS/008831005>;
     locn:geometry _:g_018.
@@ -182,8 +182,8 @@ _:g_018 a geo:Point;
     geo:lat "5.0931E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Herentals> a mv:ParkingFacility, tn:Transportobject;
     rdfs:label "Herentals";
-    ext:voertuigenBeschikbaar "20"^^xsd:integer;
-    ext:totaalPlaatsen "29"^^xsd:integer;
+    ext:voertuigenBeschikbaar "19"^^xsd:integer;
+    ext:totaalPlaatsen "28"^^xsd:integer;
     geonames:nearby <http://irail.be/stations/NMBS/008821717>;
     locn:geometry _:g_019.
 _:g_019 a geo:Point;
@@ -200,7 +200,7 @@ _:g_020 a geo:Point;
     geo:lat "5.08238E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Leuven(Tiensevest)> a mv:ParkingFacility, tn:Transportobject;
     rdfs:label "Leuven (Tiensevest)";
-    ext:voertuigenBeschikbaar "32"^^xsd:integer;
+    ext:voertuigenBeschikbaar "30"^^xsd:integer;
     ext:totaalPlaatsen "85"^^xsd:integer;
     geonames:nearby <http://irail.be/stations/NMBS/008833001>;
     locn:geometry _:g_021.
@@ -209,7 +209,7 @@ _:g_021 a geo:Point;
     geo:lat "5.08798E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Lier> a mv:ParkingFacility, tn:Transportobject;
     rdfs:label "Lier";
-    ext:voertuigenBeschikbaar "13"^^xsd:integer;
+    ext:voertuigenBeschikbaar "14"^^xsd:integer;
     ext:totaalPlaatsen "19"^^xsd:integer;
     geonames:nearby <http://irail.be/stations/NMBS/008821600>;
     locn:geometry _:g_022.
@@ -236,7 +236,7 @@ _:g_024 a geo:Point;
     geo:lat "5.06258E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Mechelen> a mv:ParkingFacility, tn:Transportobject;
     rdfs:label "Mechelen";
-    ext:voertuigenBeschikbaar "39"^^xsd:integer;
+    ext:voertuigenBeschikbaar "40"^^xsd:integer;
     ext:totaalPlaatsen "70"^^xsd:integer;
     geonames:nearby <http://irail.be/stations/NMBS/008822004>;
     locn:geometry _:g_025.
@@ -272,7 +272,7 @@ _:g_028 a geo:Point;
     geo:lat "5.04686E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Oostende> a mv:ParkingFacility, tn:Transportobject;
     rdfs:label "Oostende";
-    ext:voertuigenBeschikbaar "46"^^xsd:integer;
+    ext:voertuigenBeschikbaar "45"^^xsd:integer;
     ext:totaalPlaatsen "71"^^xsd:integer;
     geonames:nearby <http://irail.be/stations/NMBS/008891702>;
     locn:geometry _:g_029.
@@ -317,7 +317,7 @@ _:g_033 a geo:Point;
     geo:lat "5.10648E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Turnhout> a mv:ParkingFacility, tn:Transportobject;
     rdfs:label "Turnhout";
-    ext:voertuigenBeschikbaar "11"^^xsd:integer;
+    ext:voertuigenBeschikbaar "10"^^xsd:integer;
     ext:totaalPlaatsen "16"^^xsd:integer;
     geonames:nearby <http://irail.be/stations/NMBS/008821907>;
     locn:geometry _:g_034.
@@ -326,7 +326,7 @@ _:g_034 a geo:Point;
     geo:lat "5.13221E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Vilvoorde> a mv:ParkingFacility, tn:Transportobject;
     rdfs:label "Vilvoorde";
-    ext:voertuigenBeschikbaar "19"^^xsd:integer;
+    ext:voertuigenBeschikbaar "20"^^xsd:integer;
     ext:totaalPlaatsen "45"^^xsd:integer;
     geonames:nearby <http://irail.be/stations/NMBS/008811189>;
     locn:geometry _:g_035.
@@ -353,7 +353,7 @@ _:g_037 a geo:Point;
     geo:lat "5.11808E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Geel> a mv:ParkingFacility, tn:Transportobject;
     rdfs:label "Geel";
-    ext:voertuigenBeschikbaar "6"^^xsd:integer;
+    ext:voertuigenBeschikbaar "5"^^xsd:integer;
     ext:totaalPlaatsen "17"^^xsd:integer;
     geonames:nearby <http://irail.be/stations/NMBS/008832433>;
     locn:geometry _:g_038.
