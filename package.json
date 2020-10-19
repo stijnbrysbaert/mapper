@@ -19,6 +19,7 @@
   "homepage": "https://github.com/stijnbrysbaert/mapper#readme",
   "dependencies": {
     "@comunica/actor-init-sparql": "^1.17.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "n3": "^1.6.3"
   }
 }
