@@ -6,7 +6,7 @@ const app = express()
 const port = 8080
 
 //run query every hour
-cron.schedule('0 * * * *', function() {
+cron.schedule('*/30 * * * *', function() {
   comunica.cronjob();
 });
 
