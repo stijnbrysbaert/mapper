@@ -10,6 +10,7 @@ exports.cronjob = async () => {
   const result = await myEngine.query(`
     PREFIX adr:  <https://data.vlaanderen.be/ns/adres#>
     PREFIX dc:   <http://purl.org/dc/terms/>
+    PREFIX dienst: <https://stijnbrysbaert.github.io/OSLO-extension/mobiliteitsdiensten.ttl#>
     PREFIX ext:  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#>
     PREFIX foaf: <http://xmlns.com/foaf/0.1/>
     PREFIX geo:  <http://www.w3.org/2003/01/geo/wgs84_pos#>
@@ -26,14 +27,15 @@ exports.cronjob = async () => {
         ?s rdf:type mv:ParkingFacility, tn:Transportobject, adr:AdresseerbaarObject, dc:Location .
         ?s rdfs:label ?o .
         ?s geonames:nearby ?nearby .
+        ?s ext:mobiliteitsdienst dienst:blue_bike .
         ?s trips:Transportobject.beschikbaarheid _:b .
         ?s locn:geometry _:g .
         _:b rdf:type trips:Beschikbaarheid ;
             ext:totaalPlaatsen ?totCap ;
             ext:voertuigenBeschikbaar ?cap ;
             prov:generatedAtTime ?time .
-        _:e rdf:type geo:Point ; 
-            geo:long ?long ; 
+        _:g rdf:type geo:Point ;
+            geo:long ?long ;
             geo:lat ?lat .
       } WHERE {
         ?g prov:generatedAtTime ?time .
@@ -53,6 +55,7 @@ exports.cronjob = async () => {
   const writer = new N3.Writer(myFile, { end: false, prefixes:
     {
       adr:  'https://data.vlaanderen.be/ns/adres#',
+      dienst:'https://stijnbrysbaert.github.io/OSLO-extension/mobiliteitsdiensten.ttl#',
       dc:   'http://purl.org/dc/terms/',
       ext:  'https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#',
       foaf: 'http://xmlns.com/foaf/0.1/',
