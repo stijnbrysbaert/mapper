@@ -5,7 +5,7 @@ const newEngine = require('@comunica/actor-init-sparql').newEngine;
 
 const myEngine = newEngine();
 
-exports.cronjob = async () => {
+exports.mapping = async () => {
   var myFile = fs.createWriteStream("./public/output.ttl");
   const result = await myEngine.query(`
     PREFIX adr:  <https://data.vlaanderen.be/ns/adres#>
@@ -71,8 +71,11 @@ exports.cronjob = async () => {
       xsd:  'http://www.w3.org/2001/XMLSchema#',
     }
   });
+  myFile.on('error', function (err) {
+    console.log(err);
+  });
   const quads = await result.quads();
   writer.addQuads(quads);
   writer.end();
-  console.log("written at %s", new Date());
+  console.log("mapped blue bikes %s", new Date());
 }

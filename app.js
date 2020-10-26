@@ -1,13 +1,13 @@
 const express = require('express')
 const cron = require('node-cron');
-const comunica = require('./index.js');
+const mapper = require('./src/index');
 
 const app = express()
 const port = 8080
 
 //run query every hour
 cron.schedule('*/10 * * * *', function() {
-  comunica.cronjob();
+  mapper.doMapping();
 });
 
 app.use(function(req, res, next) {
