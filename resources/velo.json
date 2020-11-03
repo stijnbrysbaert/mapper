@@ -1,0 +1,1284 @@
+{
+    "velos": [
+        {
+            "id": "BikeHireDockingStation:Antwerpen:035",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "cockerillkaai",
+                    "postalCode": "2000"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 11,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 25,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.3877,
+                        51.210318
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "035- Cockerillkaai",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        },
+        {
+            "id": "BikeHireDockingStation:Antwerpen:203",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "Venezuelastraat 6",
+                    "postalCode": "2030"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 22,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 14,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.423168,
+                        51.253611
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "203- Venezuelastraat",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        },
+        {
+            "id": "BikeHireDockingStation:Antwerpen:043",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "Belgiëlei/Gretrystraat",
+                    "postalCode": "2018"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 14,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 13,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.415281,
+                        51.203684
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "043- Grétrystraat",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        },
+        {
+            "id": "BikeHireDockingStation:Antwerpen:150",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "Waterhoenlaan 12",
+                    "postalCode": "2050"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 7,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 17,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.381723279,
+                        51.220073489
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "150- Waterhoenlaan",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        },
+        {
+            "id": "BikeHireDockingStation:Antwerpen:042",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "Mechelsesteenweg - Ingang Harmoniepark",
+                    "postalCode": "2018"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 14,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 4,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.412070123,
+                        51.202284892
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "042- Harmonie",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        },
+        {
+            "id": "BikeHireDockingStation:Antwerpen:151",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "Blancefloerlaan/Halewijnlaan",
+                    "postalCode": "2050"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 13,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 23,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.378407093,
+                        51.220313009
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "151- Van Cauwelaert",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        },
+        {
+            "id": "BikeHireDockingStation:Antwerpen:206",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "Bermstraat 381",
+                    "postalCode": "2030"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 13,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 20,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.423089,
+                        51.244502
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "206- Station Luchtbal",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        },
+        {
+            "id": "BikeHireDockingStation:Antwerpen:204",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "Noorderlaan 104",
+                    "postalCode": "2030"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 14,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 22,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.420901,
+                        51.249964
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "204- Luchtbal winkelcentrum",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        },
+        {
+            "id": "BikeHireDockingStation:Antwerpen:207",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "Van Praetlei 252",
+                    "postalCode": "2170"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 14,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 10,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.463693,
+                        51.253646
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "207- Winkelstap",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        },
+        {
+            "id": "BikeHireDockingStation:Antwerpen:040",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "Desguinlei to 246",
+                    "postalCode": "2018"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 20,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 16,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.396619144,
+                        51.19676194
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "040- Desguinlei",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        },
+        {
+            "id": "BikeHireDockingStation:Antwerpen:205",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "Groenendaallaan 397",
+                    "postalCode": "2030"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 16,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 20,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.414339,
+                        51.244781
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "205- Kinepolis",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        },
+        {
+            "id": "BikeHireDockingStation:Antwerpen:023",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "Wapper - Jodenstraat",
+                    "postalCode": "2018"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 32,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 4,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.408880662,
+                        51.217084163
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "023- Rubenshuis",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        },
+        {
+            "id": "BikeHireDockingStation:Antwerpen:022",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "Statiestraat 162",
+                    "postalCode": "2600"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 6,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 27,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.430990359,
+                        51.199924762
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "022- Statie",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        },
+        {
+            "id": "BikeHireDockingStation:Antwerpen:201",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "Havanastraat 2",
+                    "postalCode": "2030"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 23,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 13,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.42007,
+                        51.260971
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "201- Havana",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        },
+        {
+            "id": "BikeHireDockingStation:Antwerpen:024",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "Anneessensstraat",
+                    "postalCode": "2018"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 24,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 6,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.417946,
+                        51.217959
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "024- Opera",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        },
+        {
+            "id": "BikeHireDockingStation:Antwerpen:025",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "Leysstraat 27",
+                    "postalCode": "2000"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 21,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 13,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.41431335,
+                        51.21818883
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "025- Teniersplaats",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        },
+        {
+            "id": "BikeHireDockingStation:Antwerpen:208",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "Ringlaan",
+                    "postalCode": "2170"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 9,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 27,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.45469,
+                        51.25451
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "208- Ringlaan Atheneum",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        },
+        {
+            "id": "BikeHireDockingStation:Antwerpen:006",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "Mercatorstraat  tov 18",
+                    "postalCode": "2018"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 22,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 2,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.422179963,
+                        51.210316661
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "006- Premetro Plantin",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        },
+        {
+            "id": "BikeHireDockingStation:Antwerpen:214",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "Kerkhofblommenstraat",
+                    "postalCode": "2170"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 11,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 25,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.432336,
+                        51.2481
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "214- Kerkhofblommen",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        },
+        {
+            "id": "BikeHireDockingStation:Antwerpen:036",
+            "type": "BikeHireDockingStation",
+            "address": {
+                "type": "PostalAddress",
+                "value": {
+                    "addressCountry": "BE",
+                    "streetAddress": "Schuttershofstraat n° 2",
+                    "postalCode": "2000"
+                },
+                "metadata": {}
+            },
+            "areaServed": {
+                "type": "Text",
+                "value": "Antwerpen",
+                "metadata": {}
+            },
+            "availableBikeNumber": {
+                "type": "Number",
+                "value": 19,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "freeSlotNumber": {
+                "type": "Number",
+                "value": 1,
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            },
+            "location": {
+                "type": "geo:json",
+                "value": {
+                    "coordinates": [
+                        4.405930431,
+                        51.216387821
+                    ],
+                    "type": "Point"
+                },
+                "metadata": {}
+            },
+            "name": {
+                "type": "Text",
+                "value": "036- Bourla",
+                "metadata": {}
+            },
+            "status": {
+                "type": "Text",
+                "value": "working",
+                "metadata": {
+                    "timestamp": {
+                        "type": "DateTime",
+                        "value": "2020-10-30T10:48:47.00Z"
+                    }
+                }
+            }
+        }
+    ]
+}
