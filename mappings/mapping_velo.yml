@@ -1,0 +1,25 @@
+prefixes:
+  ex:     'https://example.be#'
+  adr:  'https://data.vlaanderen.be/ns/adres#'
+  dienst: 'https://stijnbrysbaert.github.io/OSLO-extension/mobiliteitsdiensten.ttl#'
+  dc:   'http://purl.org/dc/terms/'
+  ext:  'https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#'
+  foaf: 'http://xmlns.com/foaf/0.1/'
+  geo:  'http://www.w3.org/2003/01/geo/wgs84_pos#'
+  geonames: 'http://www.geonames.org/ontology#'
+  locn: 'http://www.w3.org/ns/locn#'
+  mv:   'http://schema.mobivoc.org/'
+  prov: 'http://www.w3.org/ns/prov#'
+  rdf:  'http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  rdfs: 'http://www.w3.org/2000/01/rdf-schema#'
+  tn:   'https://data.vlaanderen.be/ns/transportnetwerk#'
+  trips: 'https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#'
+  xsd:  'http://www.w3.org/2001/XMLSchema#'
+
+mappings:
+  station:
+    sources:
+      - ['velo.json~jsonpath', '$.velos[*]']
+    s: ex:$(id)
+    po:
+      - [a, mv:ParkingFacility]
