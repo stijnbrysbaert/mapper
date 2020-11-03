@@ -7,7 +7,7 @@ const port = 8080
 
 //run query every hour
 cron.schedule('*/10 * * * *', function() {
-  mapper.doMapping();
+  mapper();
 });
 
 app.use(function(req, res, next) {

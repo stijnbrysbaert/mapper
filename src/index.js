@@ -1,5 +1,7 @@
 const bluebike = require('./bluebike.js');
+const velo = require('./velo');
 
-exports.doMapping = async () => {
+module.exports = async function() {
     bluebike.mapping();
+    velo.mapping();
 }
