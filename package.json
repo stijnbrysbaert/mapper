@@ -19,6 +19,8 @@
   "homepage": "https://github.com/stijnbrysbaert/mapper#readme",
   "dependencies": {
     "@comunica/actor-init-sparql": "^1.17.0",
+    "@rmlio/fetch-rmlmapper-java": "0.0.3",
+    "@rmlio/rmlmapper-java-wrapper": "^1.0.1",
     "@rmlio/yarrrml-parser": "^1.2.1",
     "express": "^4.17.1",
     "n3": "^1.6.3",
