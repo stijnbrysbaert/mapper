@@ -6,7 +6,7 @@ const app = express()
 const port = 8080
 
 //run query every hour
-cron.schedule('*/10 * * * *', function() {
+cron.schedule('*/5 * * * *', function() {
   mapper();
 });
 
