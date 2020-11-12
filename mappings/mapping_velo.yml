@@ -34,7 +34,7 @@ mappings:
             parameters:
               - [str1, $(id)]
               - [str2, $(id)]
-      - p: 'ext:Transportobject.beschikbaarheid'
+      - p: 'trips:Transportobject.beschikbaarheid'
         o: 
           mapping: status
           condition:
