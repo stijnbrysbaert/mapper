@@ -1,5 +1,5 @@
 prefixes:
-  ex:     'https://example.be#'
+  ex: 'https://example.be#'
   adr:  'https://data.vlaanderen.be/ns/adres#'
   dienst: 'https://stijnbrysbaert.github.io/OSLO-extension/mobiliteitsdiensten.ttl#'
   dc:   'http://purl.org/dc/terms/'
@@ -7,6 +7,8 @@ prefixes:
   foaf: 'http://xmlns.com/foaf/0.1/'
   geo:  'http://www.w3.org/2003/01/geo/wgs84_pos#'
   geonames: 'http://www.geonames.org/ontology#'
+  grel: http://users.ugent.be/~bjdmeest/function/grel.ttl#
+  idlab-fn: http://example.com/idlab/function/
   locn: 'http://www.w3.org/ns/locn#'
   mv:   'http://schema.mobivoc.org/'
   prov: 'http://www.w3.org/ns/prov#'
@@ -22,4 +24,58 @@ mappings:
       - ['velo.json~jsonpath', '$.velos[*]']
     s: ex:$(id)
     po:
-      - [a, mv:ParkingFacility]
+      - [a, [mv:ParkingFacility, tn:Transportobject, adr:AdresseerbaarObject, dc:Location]]
+      - [rdfs:label, $(name.value)]
+      - p: locn:geometry
+        o:
+          mapping: location
+          condition:
+            function: equal
+            parameters:
+              - [str1, $(id)]
+              - [str2, $(id)]
+      - p: 'ext:Transportobject.beschikbaarheid'
+        o: 
+          mapping: status
+          condition:
+            function: equal
+            parameters:
+              - [str1, $(id)]
+              - [str2, $(id)]
+
+  location:
+    sources:
+      - ['velo.json~jsonpath', '$.velos[*]']
+    s: ex:location_$(id)
+    po:
+      - [a, geo:Point]
+      - [geo:long, '$(location.value.coordinates[0])']
+      - [geo:lat, '$(location.value.coordinates[1])']
+
+  status:
+    sources:
+      - ['velo.json~jsonpath', '$.velos[*]']
+    s: ex:status_$(id)
+    po:
+      - [a, trips:Beschikbaarheid]
+      - [ext:voertuigenBeschikbaar, $(availableBikeNumber.value)]
+      - [ext:plaatsenVrij, $(freeSlotNumber.value)]
+      - [prov:generatedAtTime, $(availableBikeNumber.metadata.timestamp.value)]
+      - p: ext:actief
+        o:
+          value: "true"
+          datatype: "xsd:boolean"
+        condition:
+          function: idlab-fn:equal
+          parameters:
+            - [grel:valueParameter, $(status.value)] # Proabably needs to be adjusted to the proper JSON structure
+            - [grel:valueParameter2, "working"]
+      - p: ext:actief
+        o:
+          value: "false"
+          datatype: "xsd:boolean"
+        condition:
+          function: idlab-fn:notEqual
+          parameters:
+            - [grel:valueParameter, $(status.value)] # Same here
+            - [grel:valueParameter2, "working"]
