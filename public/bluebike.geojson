@@ -1,0 +1,1040 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.42105,
+                    51.2175
+                ]
+            },
+            "properties": {
+                "name": "Antwerpen-Centraal",
+                "beschikbaar": "44",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35587,
+                    50.8449
+                ]
+            },
+            "properties": {
+                "name": "Brussel-Centraal",
+                "beschikbaar": "5",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.03856,
+                    50.9429
+                ]
+            },
+            "properties": {
+                "name": "Aalst",
+                "beschikbaar": "11",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.20796,
+                    50.9067
+                ]
+            },
+            "properties": {
+                "name": "Asse",
+                "beschikbaar": "12",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.94418,
+                    50.4556
+                ]
+            },
+            "properties": {
+                "name": "Bergen",
+                "beschikbaar": "3",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.21854,
+                    51.197
+                ]
+            },
+            "properties": {
+                "name": "Brugge",
+                "beschikbaar": "39",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.43179,
+                    51.1996
+                ]
+            },
+            "properties": {
+                "name": "Antwerpen-Berchem",
+                "beschikbaar": "79",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.82425,
+                    50.9847
+                ]
+            },
+            "properties": {
+                "name": "Aarschot",
+                "beschikbaar": "9",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.37289,
+                    50.8382
+                ]
+            },
+            "properties": {
+                "name": "Brussel-Luxemburg",
+                "beschikbaar": "0",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.36049,
+                    50.8601
+                ]
+            },
+            "properties": {
+                "name": "Brussel Noord",
+                "beschikbaar": "20",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.33789,
+                    50.836
+                ]
+            },
+            "properties": {
+                "name": "Brussel Zuid",
+                "beschikbaar": "0",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.53401,
+                    50.9782
+                ]
+            },
+            "properties": {
+                "name": "Deinze",
+                "beschikbaar": "35",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.10192,
+                    51.0235
+                ]
+            },
+            "properties": {
+                "name": "Dendermonde",
+                "beschikbaar": "14",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.05113,
+                    50.993
+                ]
+            },
+            "properties": {
+                "name": "Diest",
+                "beschikbaar": "10",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.49637,
+                    50.9671
+                ]
+            },
+            "properties": {
+                "name": "Genk",
+                "beschikbaar": "5",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.74016,
+                    51.056
+                ]
+            },
+            "properties": {
+                "name": "Gent-Dampoort",
+                "beschikbaar": "46",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.70964,
+                    51.0349
+                ]
+            },
+            "properties": {
+                "name": "Gent-Sint-Pieters (St.-Denijslaan)",
+                "beschikbaar": "47",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.23994,
+                    50.7334
+                ]
+            },
+            "properties": {
+                "name": "Halle",
+                "beschikbaar": "13",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.32742,
+                    50.931
+                ]
+            },
+            "properties": {
+                "name": "Hasselt",
+                "beschikbaar": "40",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.82886,
+                    51.181
+                ]
+            },
+            "properties": {
+                "name": "Herentals",
+                "beschikbaar": "25",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.26327,
+                    50.8238
+                ]
+            },
+            "properties": {
+                "name": "Kortrijk",
+                "beschikbaar": "33",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.71594,
+                    50.8798
+                ]
+            },
+            "properties": {
+                "name": "Leuven (Tiensevest)",
+                "beschikbaar": "62",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.56152,
+                    51.1358
+                ]
+            },
+            "properties": {
+                "name": "Lier",
+                "beschikbaar": "13",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.98647,
+                    51.1074
+                ]
+            },
+            "properties": {
+                "name": "Lokeren",
+                "beschikbaar": "14",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.56564,
+                    50.6258
+                ]
+            },
+            "properties": {
+                "name": "Luik",
+                "beschikbaar": "6",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.48299,
+                    51.0178
+                ]
+            },
+            "properties": {
+                "name": "Mechelen",
+                "beschikbaar": "52",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.11513,
+                    51.1905
+                ]
+            },
+            "properties": {
+                "name": "Mol",
+                "beschikbaar": "13",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.456,
+                    51.1712
+                ]
+            },
+            "properties": {
+                "name": "Mortsel-Oude-God",
+                "beschikbaar": "3",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.86224,
+                    50.4686
+                ]
+            },
+            "properties": {
+                "name": "Namen",
+                "beschikbaar": "0",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.92565,
+                    51.2283
+                ]
+            },
+            "properties": {
+                "name": "Oostende",
+                "beschikbaar": "25",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.13048,
+                    50.949
+                ]
+            },
+            "properties": {
+                "name": "Roeselare",
+                "beschikbaar": "25",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1437,
+                    51.1714
+                ]
+            },
+            "properties": {
+                "name": "Sint-Niklaas",
+                "beschikbaar": "29",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.17633,
+                    50.8174
+                ]
+            },
+            "properties": {
+                "name": "Sint-Truiden",
+                "beschikbaar": "8",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.10551,
+                    51.0648
+                ]
+            },
+            "properties": {
+                "name": "Torhout",
+                "beschikbaar": "6",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9379,
+                    51.3221
+                ]
+            },
+            "properties": {
+                "name": "Turnhout",
+                "beschikbaar": "16",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.433,
+                    50.9247
+                ]
+            },
+            "properties": {
+                "name": "Vilvoorde",
+                "beschikbaar": "34",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.42442,
+                    50.8918
+                ]
+            },
+            "properties": {
+                "name": "Waregem",
+                "beschikbaar": "15",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.57504,
+                    51.1808
+                ]
+            },
+            "properties": {
+                "name": "Eeklo",
+                "beschikbaar": "12",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.98916,
+                    51.1688
+                ]
+            },
+            "properties": {
+                "name": "Geel",
+                "beschikbaar": "15",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.02618,
+                    50.8395
+                ]
+            },
+            "properties": {
+                "name": "Ninove",
+                "beschikbaar": "8",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.70878,
+                    51.0742
+                ]
+            },
+            "properties": {
+                "name": "Heist-op-den-Berg",
+                "beschikbaar": "6",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4734,
+                    50.7845
+                ]
+            },
+            "properties": {
+                "name": "Tongeren",
+                "beschikbaar": "0",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.48957,
+                    51.0302
+                ]
+            },
+            "properties": {
+                "name": "Mechelen-Nekkerspoel",
+                "beschikbaar": "8",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.60188,
+                    50.8513
+                ]
+            },
+            "properties": {
+                "name": "Oudenaarde ",
+                "beschikbaar": "4",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.87256,
+                    50.7705
+                ]
+            },
+            "properties": {
+                "name": "Geraardsbergen ",
+                "beschikbaar": "5",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.87627,
+                    50.8484
+                ]
+            },
+            "properties": {
+                "name": "Ieper",
+                "beschikbaar": "9",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.58322,
+                    51.1283
+                ]
+            },
+            "properties": {
+                "name": "Lier Veemarkt",
+                "beschikbaar": "4",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.57334,
+                    51.1253
+                ]
+            },
+            "properties": {
+                "name": "Lier P+R De Mol",
+                "beschikbaar": "5",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.49408,
+                    51.1685
+                ]
+            },
+            "properties": {
+                "name": "Boechout P+R Capenberg",
+                "beschikbaar": "2",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.44982,
+                    51.0925
+                ]
+            },
+            "properties": {
+                "name": "Aalter",
+                "beschikbaar": "7",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.52592,
+                    50.9824
+                ]
+            },
+            "properties": {
+                "name": "Deinze Leiespiegel",
+                "beschikbaar": "9",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.92561,
+                    50.8082
+                ]
+            },
+            "properties": {
+                "name": "Tienen ",
+                "beschikbaar": "7",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.73572,
+                    50.8545
+                ]
+            },
+            "properties": {
+                "name": "Poperinge",
+                "beschikbaar": "8",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.63241,
+                    51.3571
+                ]
+            },
+            "properties": {
+                "name": "Noorderkempen",
+                "beschikbaar": "12",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.46056,
+                    51.3651
+                ]
+            },
+            "properties": {
+                "name": "Heide",
+                "beschikbaar": "11",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.48432,
+                    51.0293
+                ]
+            },
+            "properties": {
+                "name": "Mechelen Veemarkt",
+                "beschikbaar": "5",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.47612,
+                    51.1343
+                ]
+            },
+            "properties": {
+                "name": "Kontich-Lint",
+                "beschikbaar": "7",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.32982,
+                    50.9906
+                ]
+            },
+            "properties": {
+                "name": "Tielt",
+                "beschikbaar": "8",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.47087,
+                    50.8852
+                ]
+            },
+            "properties": {
+                "name": "Zaventem",
+                "beschikbaar": "8",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.39081,
+                    51.198
+                ]
+            },
+            "properties": {
+                "name": "Antwerpen-Zuid",
+                "beschikbaar": "6",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.21482,
+                    50.9209
+                ]
+            },
+            "properties": {
+                "name": "Izegem",
+                "beschikbaar": "6",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7119,
+                    51.036
+                ]
+            },
+            "properties": {
+                "name": "Gent-Sint-Pieters (M. Hendrikaplein)",
+                "beschikbaar": "57",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.71664,
+                    50.8825
+                ]
+            },
+            "properties": {
+                "name": "Leuven (Kop van Kessel-Lo)",
+                "beschikbaar": "18",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.21608,
+                    51.1968
+                ]
+            },
+            "properties": {
+                "name": "Brugge (Kamgebouw)",
+                "beschikbaar": "10",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.26026,
+                    51.2085
+                ]
+            },
+            "properties": {
+                "name": "Beveren",
+                "beschikbaar": "7",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.69544,
+                    50.8626
+                ]
+            },
+            "properties": {
+                "name": "Heverlee ",
+                "beschikbaar": "12",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.31374,
+                    50.8557
+                ]
+            },
+            "properties": {
+                "name": "Harelbeke",
+                "beschikbaar": "9",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.64013,
+                    50.9294
+                ]
+            },
+            "properties": {
+                "name": "Gavere-Asper",
+                "beschikbaar": "8",
+                "marker-symbol": "bicycle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.65469,
+                    50.9305
+                ]
+            },
+            "properties": {
+                "name": "Gavere mobipunt",
+                "beschikbaar": "6",
+                "marker-symbol": "bicycle"
+            }
+        }
+    ]
+}
