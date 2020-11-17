@@ -66,8 +66,8 @@ let prefixes = {
 }
 
 exports.mapping = async () => {
-  var myFile = fs.createWriteStream("./public/output.ttl");
-  fs.chmodSync("./public/output.ttl", 0o777);
+  var myFile = fs.createWriteStream("./public/bluebike.ttl");
+  fs.chmodSync("./public/bluebike.ttl", 0o777);
   const result = await myEngine.query(query, {
     sources: ["https://datapiloten.be/bluebike/availabilities.geojson"],
   });

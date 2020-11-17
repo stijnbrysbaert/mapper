@@ -29,7 +29,6 @@ exports.toGeojson = async () => {
     sources: ["https://bluebike-mapper.azurewebsites.net/"],
   });
   const bindings = await result.bindings();
-console.log(bindings.length);
 (bindings).forEach(station => {
     var entry = {   name: station.get('?label').value,
                     beschikbaar: station.get('?aantal').value,

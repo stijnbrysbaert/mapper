@@ -2,6 +2,7 @@ const express = require('express')
 const cron = require('node-cron');
 const mapper = require('./src/index');
 const fs = require('fs');
+const path = require('path');
 
 const app = express()
 const port = 8080
@@ -26,11 +27,10 @@ app.use(function(req, res, next) {
 });
 
 var options = {
-    extensions: ['ttl'],
-    index: 'output.ttl',
+    index: './bluebike.ttl',
   }
 
-app.use(express.static('public', options))
+app.use(express.static(path.join(__dirname, 'public'), options))
 
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)

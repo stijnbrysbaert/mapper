@@ -22,8 +22,8 @@
     locn:geometry _:e_g0.
 _:e_b0 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "48"^^xsd:integer;
-    ext:voertuigenBeschikbaar "45"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:05.519Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "43"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:05.033Z"^^xsd:date.
 _:e_g0 a geo:Point;
     geo:long "4.42105E0"^^xsd:float;
     geo:lat "5.12175E1"^^xsd:float.
@@ -35,8 +35,8 @@ _:e_g0 a geo:Point;
     locn:geometry _:e_g1.
 _:e_b1 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "9"^^xsd:integer;
-    ext:voertuigenBeschikbaar "6"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:07.621Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "9"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:05.491Z"^^xsd:date.
 _:e_g1 a geo:Point;
     geo:long "4.35587E0"^^xsd:float;
     geo:lat "5.08449E1"^^xsd:float.
@@ -49,7 +49,7 @@ _:e_g1 a geo:Point;
 _:e_b2 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "11"^^xsd:integer;
     ext:voertuigenBeschikbaar "11"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:08.148Z"^^xsd:date.
+    prov:generatedAtTime "2020-11-17T10:40:05.926Z"^^xsd:date.
 _:e_g2 a geo:Point;
     geo:long "4.03856E0"^^xsd:float;
     geo:lat "5.09429E1"^^xsd:float.
@@ -61,8 +61,8 @@ _:e_g2 a geo:Point;
     locn:geometry _:e_g3.
 _:e_b3 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "12"^^xsd:integer;
-    ext:voertuigenBeschikbaar "12"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:08.761Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "9"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:06.362Z"^^xsd:date.
 _:e_g3 a geo:Point;
     geo:long "4.20796E0"^^xsd:float;
     geo:lat "5.09067E1"^^xsd:float.
@@ -75,7 +75,7 @@ _:e_g3 a geo:Point;
 _:e_b4 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "3"^^xsd:integer;
     ext:voertuigenBeschikbaar "3"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:09.444Z"^^xsd:date.
+    prov:generatedAtTime "2020-11-17T10:40:06.810Z"^^xsd:date.
 _:e_g4 a geo:Point;
     geo:long "3.94418E0"^^xsd:float;
     geo:lat "5.04556E1"^^xsd:float.
@@ -87,8 +87,8 @@ _:e_g4 a geo:Point;
     locn:geometry _:e_g5.
 _:e_b5 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "48"^^xsd:integer;
-    ext:voertuigenBeschikbaar "43"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:10.135Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "29"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:07.409Z"^^xsd:date.
 _:e_g5 a geo:Point;
     geo:long "3.21854E0"^^xsd:float;
     geo:lat "5.1197E1"^^xsd:float.
@@ -99,9 +99,9 @@ _:e_g5 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b6;
     locn:geometry _:e_g6.
 _:e_b6 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "87"^^xsd:integer;
-    ext:voertuigenBeschikbaar "77"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:10.695Z"^^xsd:date.
+    ext:totaalPlaatsen "82"^^xsd:integer;
+    ext:voertuigenBeschikbaar "75"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:07.877Z"^^xsd:date.
 _:e_g6 a geo:Point;
     geo:long "4.43179E0"^^xsd:float;
     geo:lat "5.11996E1"^^xsd:float.
@@ -113,8 +113,8 @@ _:e_g6 a geo:Point;
     locn:geometry _:e_g7.
 _:e_b7 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "12"^^xsd:integer;
-    ext:voertuigenBeschikbaar "8"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:11.189Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "5"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:08.297Z"^^xsd:date.
 _:e_g7 a geo:Point;
     geo:long "4.82425E0"^^xsd:float;
     geo:lat "5.09847E1"^^xsd:float.
@@ -127,7 +127,7 @@ _:e_g7 a geo:Point;
 _:e_b8 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "5"^^xsd:integer;
     ext:voertuigenBeschikbaar "0"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:11.677Z"^^xsd:date.
+    prov:generatedAtTime "2020-11-17T10:40:08.741Z"^^xsd:date.
 _:e_g8 a geo:Point;
     geo:long "4.37289E0"^^xsd:float;
     geo:lat "5.08382E1"^^xsd:float.
@@ -139,8 +139,8 @@ _:e_g8 a geo:Point;
     locn:geometry _:e_g9.
 _:e_b9 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "26"^^xsd:integer;
-    ext:voertuigenBeschikbaar "21"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:12.227Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "23"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:09.176Z"^^xsd:date.
 _:e_g9 a geo:Point;
     geo:long "4.36049E0"^^xsd:float;
     geo:lat "5.08601E1"^^xsd:float.
@@ -153,7 +153,7 @@ _:e_g9 a geo:Point;
 _:e_b10 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "0"^^xsd:integer;
     ext:voertuigenBeschikbaar "0"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:12.776Z"^^xsd:date.
+    prov:generatedAtTime "2020-11-17T10:40:09.601Z"^^xsd:date.
 _:e_g10 a geo:Point;
     geo:long "4.33789E0"^^xsd:float;
     geo:lat "5.0836E1"^^xsd:float.
@@ -164,9 +164,9 @@ _:e_g10 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b11;
     locn:geometry _:e_g11.
 _:e_b11 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "65"^^xsd:integer;
-    ext:voertuigenBeschikbaar "40"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:13.414Z"^^xsd:date.
+    ext:totaalPlaatsen "68"^^xsd:integer;
+    ext:voertuigenBeschikbaar "23"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:10.165Z"^^xsd:date.
 _:e_g11 a geo:Point;
     geo:long "3.53401E0"^^xsd:float;
     geo:lat "5.09782E1"^^xsd:float.
@@ -178,8 +178,8 @@ _:e_g11 a geo:Point;
     locn:geometry _:e_g12.
 _:e_b12 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "23"^^xsd:integer;
-    ext:voertuigenBeschikbaar "18"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:13.920Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "11"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:10.607Z"^^xsd:date.
 _:e_g12 a geo:Point;
     geo:long "4.10192E0"^^xsd:float;
     geo:lat "5.10235E1"^^xsd:float.
@@ -191,8 +191,8 @@ _:e_g12 a geo:Point;
     locn:geometry _:e_g13.
 _:e_b13 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "10"^^xsd:integer;
-    ext:voertuigenBeschikbaar "8"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:14.365Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "9"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:11.104Z"^^xsd:date.
 _:e_g13 a geo:Point;
     geo:long "5.05113E0"^^xsd:float;
     geo:lat "5.0993E1"^^xsd:float.
@@ -204,8 +204,8 @@ _:e_g13 a geo:Point;
     locn:geometry _:e_g14.
 _:e_b14 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "6"^^xsd:integer;
-    ext:voertuigenBeschikbaar "4"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:14.834Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "2"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:11.525Z"^^xsd:date.
 _:e_g14 a geo:Point;
     geo:long "5.49637E0"^^xsd:float;
     geo:lat "5.09671E1"^^xsd:float.
@@ -216,9 +216,9 @@ _:e_g14 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b15;
     locn:geometry _:e_g15.
 _:e_b15 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "51"^^xsd:integer;
-    ext:voertuigenBeschikbaar "48"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:15.335Z"^^xsd:date.
+    ext:totaalPlaatsen "52"^^xsd:integer;
+    ext:voertuigenBeschikbaar "38"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:12.019Z"^^xsd:date.
 _:e_g15 a geo:Point;
     geo:long "3.74016E0"^^xsd:float;
     geo:lat "5.1056E1"^^xsd:float.
@@ -229,9 +229,9 @@ _:e_g15 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b16;
     locn:geometry _:e_g16.
 _:e_b16 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "58"^^xsd:integer;
-    ext:voertuigenBeschikbaar "49"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:15.930Z"^^xsd:date.
+    ext:totaalPlaatsen "57"^^xsd:integer;
+    ext:voertuigenBeschikbaar "47"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:12.592Z"^^xsd:date.
 _:e_g16 a geo:Point;
     geo:long "3.70964E0"^^xsd:float;
     geo:lat "5.10349E1"^^xsd:float.
@@ -242,9 +242,9 @@ _:e_g16 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b17;
     locn:geometry _:e_g17.
 _:e_b17 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "16"^^xsd:integer;
-    ext:voertuigenBeschikbaar "13"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:16.395Z"^^xsd:date.
+    ext:totaalPlaatsen "20"^^xsd:integer;
+    ext:voertuigenBeschikbaar "15"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:13.046Z"^^xsd:date.
 _:e_g17 a geo:Point;
     geo:long "4.23994E0"^^xsd:float;
     geo:lat "5.07334E1"^^xsd:float.
@@ -255,9 +255,9 @@ _:e_g17 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b18;
     locn:geometry _:e_g18.
 _:e_b18 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "57"^^xsd:integer;
-    ext:voertuigenBeschikbaar "48"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:16.995Z"^^xsd:date.
+    ext:totaalPlaatsen "54"^^xsd:integer;
+    ext:voertuigenBeschikbaar "36"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:13.607Z"^^xsd:date.
 _:e_g18 a geo:Point;
     geo:long "5.32742E0"^^xsd:float;
     geo:lat "5.0931E1"^^xsd:float.
@@ -269,8 +269,8 @@ _:e_g18 a geo:Point;
     locn:geometry _:e_g19.
 _:e_b19 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "29"^^xsd:integer;
-    ext:voertuigenBeschikbaar "26"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:17.446Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "23"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:14.054Z"^^xsd:date.
 _:e_g19 a geo:Point;
     geo:long "4.82886E0"^^xsd:float;
     geo:lat "5.1181E1"^^xsd:float.
@@ -282,8 +282,8 @@ _:e_g19 a geo:Point;
     locn:geometry _:e_g20.
 _:e_b20 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "49"^^xsd:integer;
-    ext:voertuigenBeschikbaar "36"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:17.908Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "29"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:14.506Z"^^xsd:date.
 _:e_g20 a geo:Point;
     geo:long "3.26327E0"^^xsd:float;
     geo:lat "5.08238E1"^^xsd:float.
@@ -294,9 +294,9 @@ _:e_g20 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b21;
     locn:geometry _:e_g21.
 _:e_b21 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "83"^^xsd:integer;
-    ext:voertuigenBeschikbaar "48"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:18.385Z"^^xsd:date.
+    ext:totaalPlaatsen "85"^^xsd:integer;
+    ext:voertuigenBeschikbaar "57"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:15.998Z"^^xsd:date.
 _:e_g21 a geo:Point;
     geo:long "4.71594E0"^^xsd:float;
     geo:lat "5.08798E1"^^xsd:float.
@@ -308,8 +308,8 @@ _:e_g21 a geo:Point;
     locn:geometry _:e_g22.
 _:e_b22 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "19"^^xsd:integer;
-    ext:voertuigenBeschikbaar "15"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:18.816Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "10"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:16.432Z"^^xsd:date.
 _:e_g22 a geo:Point;
     geo:long "4.56152E0"^^xsd:float;
     geo:lat "5.11358E1"^^xsd:float.
@@ -321,8 +321,8 @@ _:e_g22 a geo:Point;
     locn:geometry _:e_g23.
 _:e_b23 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "16"^^xsd:integer;
-    ext:voertuigenBeschikbaar "14"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:19.272Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "12"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:16.863Z"^^xsd:date.
 _:e_g23 a geo:Point;
     geo:long "3.98647E0"^^xsd:float;
     geo:lat "5.11074E1"^^xsd:float.
@@ -334,8 +334,8 @@ _:e_g23 a geo:Point;
     locn:geometry _:e_g24.
 _:e_b24 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "8"^^xsd:integer;
-    ext:voertuigenBeschikbaar "5"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:19.750Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "8"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:17.286Z"^^xsd:date.
 _:e_g24 a geo:Point;
     geo:long "5.56564E0"^^xsd:float;
     geo:lat "5.06258E1"^^xsd:float.
@@ -346,9 +346,9 @@ _:e_g24 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b25;
     locn:geometry _:e_g25.
 _:e_b25 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "71"^^xsd:integer;
-    ext:voertuigenBeschikbaar "51"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:20.233Z"^^xsd:date.
+    ext:totaalPlaatsen "72"^^xsd:integer;
+    ext:voertuigenBeschikbaar "52"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:17.743Z"^^xsd:date.
 _:e_g25 a geo:Point;
     geo:long "4.48299E0"^^xsd:float;
     geo:lat "5.10178E1"^^xsd:float.
@@ -360,8 +360,8 @@ _:e_g25 a geo:Point;
     locn:geometry _:e_g26.
 _:e_b26 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "17"^^xsd:integer;
-    ext:voertuigenBeschikbaar "14"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:20.672Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "11"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:18.177Z"^^xsd:date.
 _:e_g26 a geo:Point;
     geo:long "5.11513E0"^^xsd:float;
     geo:lat "5.11905E1"^^xsd:float.
@@ -374,7 +374,7 @@ _:e_g26 a geo:Point;
 _:e_b27 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "5"^^xsd:integer;
     ext:voertuigenBeschikbaar "4"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:21.098Z"^^xsd:date.
+    prov:generatedAtTime "2020-11-17T10:40:18.591Z"^^xsd:date.
 _:e_g27 a geo:Point;
     geo:long "4.456E0"^^xsd:float;
     geo:lat "5.11712E1"^^xsd:float.
@@ -385,9 +385,9 @@ _:e_g27 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b28;
     locn:geometry _:e_g28.
 _:e_b28 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "6"^^xsd:integer;
-    ext:voertuigenBeschikbaar "0"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:21.519Z"^^xsd:date.
+    ext:totaalPlaatsen "5"^^xsd:integer;
+    ext:voertuigenBeschikbaar "4"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:19.022Z"^^xsd:date.
 _:e_g28 a geo:Point;
     geo:long "4.86224E0"^^xsd:float;
     geo:lat "5.04686E1"^^xsd:float.
@@ -398,9 +398,9 @@ _:e_g28 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b29;
     locn:geometry _:e_g29.
 _:e_b29 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "39"^^xsd:integer;
-    ext:voertuigenBeschikbaar "20"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:21.987Z"^^xsd:date.
+    ext:totaalPlaatsen "38"^^xsd:integer;
+    ext:voertuigenBeschikbaar "21"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:19.455Z"^^xsd:date.
 _:e_g29 a geo:Point;
     geo:long "2.92565E0"^^xsd:float;
     geo:lat "5.12283E1"^^xsd:float.
@@ -411,9 +411,9 @@ _:e_g29 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b30;
     locn:geometry _:e_g30.
 _:e_b30 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "29"^^xsd:integer;
-    ext:voertuigenBeschikbaar "26"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:22.457Z"^^xsd:date.
+    ext:totaalPlaatsen "28"^^xsd:integer;
+    ext:voertuigenBeschikbaar "19"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:19.899Z"^^xsd:date.
 _:e_g30 a geo:Point;
     geo:long "3.13048E0"^^xsd:float;
     geo:lat "5.0949E1"^^xsd:float.
@@ -424,9 +424,9 @@ _:e_g30 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b31;
     locn:geometry _:e_g31.
 _:e_b31 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "36"^^xsd:integer;
-    ext:voertuigenBeschikbaar "32"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:22.925Z"^^xsd:date.
+    ext:totaalPlaatsen "39"^^xsd:integer;
+    ext:voertuigenBeschikbaar "31"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:20.362Z"^^xsd:date.
 _:e_g31 a geo:Point;
     geo:long "4.1437E0"^^xsd:float;
     geo:lat "5.11714E1"^^xsd:float.
@@ -438,8 +438,8 @@ _:e_g31 a geo:Point;
     locn:geometry _:e_g32.
 _:e_b32 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "8"^^xsd:integer;
-    ext:voertuigenBeschikbaar "8"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:23.420Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "7"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:20.809Z"^^xsd:date.
 _:e_g32 a geo:Point;
     geo:long "5.17633E0"^^xsd:float;
     geo:lat "5.08174E1"^^xsd:float.
@@ -451,8 +451,8 @@ _:e_g32 a geo:Point;
     locn:geometry _:e_g33.
 _:e_b33 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "7"^^xsd:integer;
-    ext:voertuigenBeschikbaar "6"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:23.910Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "5"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:21.286Z"^^xsd:date.
 _:e_g33 a geo:Point;
     geo:long "3.10551E0"^^xsd:float;
     geo:lat "5.10648E1"^^xsd:float.
@@ -464,8 +464,8 @@ _:e_g33 a geo:Point;
     locn:geometry _:e_g34.
 _:e_b34 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "16"^^xsd:integer;
-    ext:voertuigenBeschikbaar "14"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:24.348Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "13"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:21.727Z"^^xsd:date.
 _:e_g34 a geo:Point;
     geo:long "4.9379E0"^^xsd:float;
     geo:lat "5.13221E1"^^xsd:float.
@@ -476,9 +476,9 @@ _:e_g34 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b35;
     locn:geometry _:e_g35.
 _:e_b35 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "45"^^xsd:integer;
-    ext:voertuigenBeschikbaar "40"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:24.803Z"^^xsd:date.
+    ext:totaalPlaatsen "43"^^xsd:integer;
+    ext:voertuigenBeschikbaar "22"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:22.182Z"^^xsd:date.
 _:e_g35 a geo:Point;
     geo:long "4.433E0"^^xsd:float;
     geo:lat "5.09247E1"^^xsd:float.
@@ -489,9 +489,9 @@ _:e_g35 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b36;
     locn:geometry _:e_g36.
 _:e_b36 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "17"^^xsd:integer;
+    ext:totaalPlaatsen "16"^^xsd:integer;
     ext:voertuigenBeschikbaar "15"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:25.250Z"^^xsd:date.
+    prov:generatedAtTime "2020-11-17T10:40:22.619Z"^^xsd:date.
 _:e_g36 a geo:Point;
     geo:long "3.42442E0"^^xsd:float;
     geo:lat "5.08918E1"^^xsd:float.
@@ -503,8 +503,8 @@ _:e_g36 a geo:Point;
     locn:geometry _:e_g37.
 _:e_b37 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "14"^^xsd:integer;
-    ext:voertuigenBeschikbaar "12"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:25.695Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "10"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:23.053Z"^^xsd:date.
 _:e_g37 a geo:Point;
     geo:long "3.57504E0"^^xsd:float;
     geo:lat "5.11808E1"^^xsd:float.
@@ -516,8 +516,8 @@ _:e_g37 a geo:Point;
     locn:geometry _:e_g38.
 _:e_b38 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "18"^^xsd:integer;
-    ext:voertuigenBeschikbaar "16"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:26.268Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "15"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:23.493Z"^^xsd:date.
 _:e_g38 a geo:Point;
     geo:long "4.98916E0"^^xsd:float;
     geo:lat "5.11688E1"^^xsd:float.
@@ -528,9 +528,9 @@ _:e_g38 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b39;
     locn:geometry _:e_g39.
 _:e_b39 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "12"^^xsd:integer;
-    ext:voertuigenBeschikbaar "10"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:26.685Z"^^xsd:date.
+    ext:totaalPlaatsen "11"^^xsd:integer;
+    ext:voertuigenBeschikbaar "6"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:23.932Z"^^xsd:date.
 _:e_g39 a geo:Point;
     geo:long "4.02618E0"^^xsd:float;
     geo:lat "5.08395E1"^^xsd:float.
@@ -542,8 +542,8 @@ _:e_g39 a geo:Point;
     locn:geometry _:e_g40.
 _:e_b40 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "9"^^xsd:integer;
-    ext:voertuigenBeschikbaar "6"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:27.145Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "2"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:24.354Z"^^xsd:date.
 _:e_g40 a geo:Point;
     geo:long "4.70878E0"^^xsd:float;
     geo:lat "5.10742E1"^^xsd:float.
@@ -554,9 +554,9 @@ _:e_g40 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b41;
     locn:geometry _:e_g41.
 _:e_b41 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "8"^^xsd:integer;
-    ext:voertuigenBeschikbaar "6"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:27.548Z"^^xsd:date.
+    ext:totaalPlaatsen "0"^^xsd:integer;
+    ext:voertuigenBeschikbaar "0"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:24.804Z"^^xsd:date.
 _:e_g41 a geo:Point;
     geo:long "5.4734E0"^^xsd:float;
     geo:lat "5.07845E1"^^xsd:float.
@@ -568,8 +568,8 @@ _:e_g41 a geo:Point;
     locn:geometry _:e_g42.
 _:e_b42 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "13"^^xsd:integer;
-    ext:voertuigenBeschikbaar "9"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:27.965Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "7"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:25.235Z"^^xsd:date.
 _:e_g42 a geo:Point;
     geo:long "4.48957E0"^^xsd:float;
     geo:lat "5.10302E1"^^xsd:float.
@@ -580,9 +580,9 @@ _:e_g42 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b43;
     locn:geometry _:e_g43.
 _:e_b43 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "6"^^xsd:integer;
-    ext:voertuigenBeschikbaar "4"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:28.473Z"^^xsd:date.
+    ext:totaalPlaatsen "7"^^xsd:integer;
+    ext:voertuigenBeschikbaar "6"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:26.658Z"^^xsd:date.
 _:e_g43 a geo:Point;
     geo:long "3.60188E0"^^xsd:float;
     geo:lat "5.08513E1"^^xsd:float.
@@ -594,8 +594,8 @@ _:e_g43 a geo:Point;
     locn:geometry _:e_g44.
 _:e_b44 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "6"^^xsd:integer;
-    ext:voertuigenBeschikbaar "5"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:28.906Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "3"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:27.078Z"^^xsd:date.
 _:e_g44 a geo:Point;
     geo:long "3.87256E0"^^xsd:float;
     geo:lat "5.07705E1"^^xsd:float.
@@ -608,7 +608,7 @@ _:e_g44 a geo:Point;
 _:e_b45 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "11"^^xsd:integer;
     ext:voertuigenBeschikbaar "9"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:29.317Z"^^xsd:date.
+    prov:generatedAtTime "2020-11-17T10:40:27.497Z"^^xsd:date.
 _:e_g45 a geo:Point;
     geo:long "2.87627E0"^^xsd:float;
     geo:lat "5.08484E1"^^xsd:float.
@@ -621,7 +621,7 @@ _:e_g45 a geo:Point;
 _:e_b46 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "4"^^xsd:integer;
     ext:voertuigenBeschikbaar "4"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:29.732Z"^^xsd:date.
+    prov:generatedAtTime "2020-11-17T10:40:27.911Z"^^xsd:date.
 _:e_g46 a geo:Point;
     geo:long "4.58322E0"^^xsd:float;
     geo:lat "5.11283E1"^^xsd:float.
@@ -633,8 +633,8 @@ _:e_g46 a geo:Point;
     locn:geometry _:e_g47.
 _:e_b47 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "6"^^xsd:integer;
-    ext:voertuigenBeschikbaar "5"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:30.141Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "6"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:28.324Z"^^xsd:date.
 _:e_g47 a geo:Point;
     geo:long "4.57334E0"^^xsd:float;
     geo:lat "5.11253E1"^^xsd:float.
@@ -647,7 +647,7 @@ _:e_g47 a geo:Point;
 _:e_b48 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "2"^^xsd:integer;
     ext:voertuigenBeschikbaar "2"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:30.563Z"^^xsd:date.
+    prov:generatedAtTime "2020-11-17T10:40:28.746Z"^^xsd:date.
 _:e_g48 a geo:Point;
     geo:long "4.49408E0"^^xsd:float;
     geo:lat "5.11685E1"^^xsd:float.
@@ -660,7 +660,7 @@ _:e_g48 a geo:Point;
 _:e_b49 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "8"^^xsd:integer;
     ext:voertuigenBeschikbaar "7"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:30.997Z"^^xsd:date.
+    prov:generatedAtTime "2020-11-17T10:40:29.172Z"^^xsd:date.
 _:e_g49 a geo:Point;
     geo:long "3.44982E0"^^xsd:float;
     geo:lat "5.10925E1"^^xsd:float.
@@ -673,7 +673,7 @@ _:e_g49 a geo:Point;
 _:e_b50 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "10"^^xsd:integer;
     ext:voertuigenBeschikbaar "9"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:31.448Z"^^xsd:date.
+    prov:generatedAtTime "2020-11-17T10:40:29.601Z"^^xsd:date.
 _:e_g50 a geo:Point;
     geo:long "3.52592E0"^^xsd:float;
     geo:lat "5.09824E1"^^xsd:float.
@@ -685,8 +685,8 @@ _:e_g50 a geo:Point;
     locn:geometry _:e_g51.
 _:e_b51 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "15"^^xsd:integer;
-    ext:voertuigenBeschikbaar "8"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:31.868Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "5"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:30.038Z"^^xsd:date.
 _:e_g51 a geo:Point;
     geo:long "4.92561E0"^^xsd:float;
     geo:lat "5.08082E1"^^xsd:float.
@@ -699,7 +699,7 @@ _:e_g51 a geo:Point;
 _:e_b52 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "8"^^xsd:integer;
     ext:voertuigenBeschikbaar "8"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:32.325Z"^^xsd:date.
+    prov:generatedAtTime "2020-11-17T10:40:30.456Z"^^xsd:date.
 _:e_g52 a geo:Point;
     geo:long "2.73572E0"^^xsd:float;
     geo:lat "5.08545E1"^^xsd:float.
@@ -712,7 +712,7 @@ _:e_g52 a geo:Point;
 _:e_b53 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "12"^^xsd:integer;
     ext:voertuigenBeschikbaar "12"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:32.760Z"^^xsd:date.
+    prov:generatedAtTime "2020-11-17T10:40:30.879Z"^^xsd:date.
 _:e_g53 a geo:Point;
     geo:long "4.63241E0"^^xsd:float;
     geo:lat "5.13571E1"^^xsd:float.
@@ -724,8 +724,8 @@ _:e_g53 a geo:Point;
     locn:geometry _:e_g54.
 _:e_b54 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "12"^^xsd:integer;
-    ext:voertuigenBeschikbaar "9"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:33.168Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "10"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:31.298Z"^^xsd:date.
 _:e_g54 a geo:Point;
     geo:long "4.46056E0"^^xsd:float;
     geo:lat "5.13651E1"^^xsd:float.
@@ -736,9 +736,9 @@ _:e_g54 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b55;
     locn:geometry _:e_g55.
 _:e_b55 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "7"^^xsd:integer;
+    ext:totaalPlaatsen "8"^^xsd:integer;
     ext:voertuigenBeschikbaar "6"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:33.580Z"^^xsd:date.
+    prov:generatedAtTime "2020-11-17T10:40:31.716Z"^^xsd:date.
 _:e_g55 a geo:Point;
     geo:long "4.48432E0"^^xsd:float;
     geo:lat "5.10293E1"^^xsd:float.
@@ -750,8 +750,8 @@ _:e_g55 a geo:Point;
     locn:geometry _:e_g56.
 _:e_b56 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "8"^^xsd:integer;
-    ext:voertuigenBeschikbaar "7"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:33.993Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "3"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:32.147Z"^^xsd:date.
 _:e_g56 a geo:Point;
     geo:long "4.47612E0"^^xsd:float;
     geo:lat "5.11343E1"^^xsd:float.
@@ -762,9 +762,9 @@ _:e_g56 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b57;
     locn:geometry _:e_g57.
 _:e_b57 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "8"^^xsd:integer;
-    ext:voertuigenBeschikbaar "8"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:34.432Z"^^xsd:date.
+    ext:totaalPlaatsen "7"^^xsd:integer;
+    ext:voertuigenBeschikbaar "7"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:32.571Z"^^xsd:date.
 _:e_g57 a geo:Point;
     geo:long "3.32982E0"^^xsd:float;
     geo:lat "5.09906E1"^^xsd:float.
@@ -777,7 +777,7 @@ _:e_g57 a geo:Point;
 _:e_b58 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "10"^^xsd:integer;
     ext:voertuigenBeschikbaar "8"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:34.867Z"^^xsd:date.
+    prov:generatedAtTime "2020-11-17T10:40:33.011Z"^^xsd:date.
 _:e_g58 a geo:Point;
     geo:long "4.47087E0"^^xsd:float;
     geo:lat "5.08852E1"^^xsd:float.
@@ -789,8 +789,8 @@ _:e_g58 a geo:Point;
     locn:geometry _:e_g59.
 _:e_b59 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "6"^^xsd:integer;
-    ext:voertuigenBeschikbaar "6"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:35.293Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "5"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:33.429Z"^^xsd:date.
 _:e_g59 a geo:Point;
     geo:long "4.39081E0"^^xsd:float;
     geo:lat "5.1198E1"^^xsd:float.
@@ -801,9 +801,9 @@ _:e_g59 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b60;
     locn:geometry _:e_g60.
 _:e_b60 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "12"^^xsd:integer;
-    ext:voertuigenBeschikbaar "8"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:35.734Z"^^xsd:date.
+    ext:totaalPlaatsen "11"^^xsd:integer;
+    ext:voertuigenBeschikbaar "9"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:33.866Z"^^xsd:date.
 _:e_g60 a geo:Point;
     geo:long "3.21482E0"^^xsd:float;
     geo:lat "5.09209E1"^^xsd:float.
@@ -814,9 +814,9 @@ _:e_g60 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b61;
     locn:geometry _:e_g61.
 _:e_b61 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "65"^^xsd:integer;
-    ext:voertuigenBeschikbaar "52"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:36.193Z"^^xsd:date.
+    ext:totaalPlaatsen "58"^^xsd:integer;
+    ext:voertuigenBeschikbaar "51"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:34.329Z"^^xsd:date.
 _:e_g61 a geo:Point;
     geo:long "3.7119E0"^^xsd:float;
     geo:lat "5.1036E1"^^xsd:float.
@@ -828,8 +828,8 @@ _:e_g61 a geo:Point;
     locn:geometry _:e_g62.
 _:e_b62 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "27"^^xsd:integer;
-    ext:voertuigenBeschikbaar "18"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:36.637Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "11"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:37.253Z"^^xsd:date.
 _:e_g62 a geo:Point;
     geo:long "4.71664E0"^^xsd:float;
     geo:lat "5.08825E1"^^xsd:float.
@@ -840,9 +840,9 @@ _:e_g62 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b63;
     locn:geometry _:e_g63.
 _:e_b63 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "13"^^xsd:integer;
-    ext:voertuigenBeschikbaar "12"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:37.083Z"^^xsd:date.
+    ext:totaalPlaatsen "14"^^xsd:integer;
+    ext:voertuigenBeschikbaar "7"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:37.676Z"^^xsd:date.
 _:e_g63 a geo:Point;
     geo:long "3.21608E0"^^xsd:float;
     geo:lat "5.11968E1"^^xsd:float.
@@ -854,8 +854,8 @@ _:e_g63 a geo:Point;
     locn:geometry _:e_g64.
 _:e_b64 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "8"^^xsd:integer;
-    ext:voertuigenBeschikbaar "6"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:37.511Z"^^xsd:date.
+    ext:voertuigenBeschikbaar "4"^^xsd:integer;
+    prov:generatedAtTime "2020-11-17T10:40:38.121Z"^^xsd:date.
 _:e_g64 a geo:Point;
     geo:long "4.26026E0"^^xsd:float;
     geo:lat "5.12085E1"^^xsd:float.
@@ -868,7 +868,7 @@ _:e_g64 a geo:Point;
 _:e_b65 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "12"^^xsd:integer;
     ext:voertuigenBeschikbaar "12"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:37.933Z"^^xsd:date.
+    prov:generatedAtTime "2020-11-17T10:40:38.536Z"^^xsd:date.
 _:e_g65 a geo:Point;
     geo:long "4.69544E0"^^xsd:float;
     geo:lat "5.08626E1"^^xsd:float.
@@ -881,7 +881,7 @@ _:e_g65 a geo:Point;
 _:e_b66 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "12"^^xsd:integer;
     ext:voertuigenBeschikbaar "8"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:38.360Z"^^xsd:date.
+    prov:generatedAtTime "2020-11-17T10:40:38.961Z"^^xsd:date.
 _:e_g66 a geo:Point;
     geo:long "3.31374E0"^^xsd:float;
     geo:lat "5.08557E1"^^xsd:float.
@@ -892,9 +892,9 @@ _:e_g66 a geo:Point;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b67;
     locn:geometry _:e_g67.
 _:e_b67 a trips:Beschikbaarheid;
-    ext:totaalPlaatsen "8"^^xsd:integer;
+    ext:totaalPlaatsen "7"^^xsd:integer;
     ext:voertuigenBeschikbaar "7"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:38.776Z"^^xsd:date.
+    prov:generatedAtTime "2020-11-17T10:40:39.404Z"^^xsd:date.
 _:e_g67 a geo:Point;
     geo:long "3.64013E0"^^xsd:float;
     geo:lat "5.09294E1"^^xsd:float.
@@ -907,7 +907,7 @@ _:e_g67 a geo:Point;
 _:e_b68 a trips:Beschikbaarheid;
     ext:totaalPlaatsen "6"^^xsd:integer;
     ext:voertuigenBeschikbaar "6"^^xsd:integer;
-    prov:generatedAtTime "2020-11-12T15:30:39.241Z"^^xsd:date.
+    prov:generatedAtTime "2020-11-17T10:40:39.827Z"^^xsd:date.
 _:e_g68 a geo:Point;
     geo:long "3.65469E0"^^xsd:float;
     geo:lat "5.09305E1"^^xsd:float.
