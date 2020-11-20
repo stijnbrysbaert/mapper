@@ -8,7 +8,7 @@ const myEngine = newEngine();
 
 exports.mapping = async () => {
   var myFile = fs.createWriteStream(constants.bluebike.ld);
-  fs.chmodSync(constants.bluebike.ld, 0o777);
+  // fs.chmodSync(constants.bluebike.ld, 0o777);
   const result = await myEngine.query(bluebike.query, {
     sources: [constants.bluebike.get_entities],
   });
