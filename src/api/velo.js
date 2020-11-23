@@ -1,11 +1,9 @@
 const https = require('https');
 const constants = require('../../constants.js');
-const fs = require('fs');
-const config = require('../../config');
 
 var options = {
     headers: {
-        apikey: process.env.VELO_KEY || config.VELO_KEY
+        apikey: process.env.VELO_KEY
     }
 }
 
