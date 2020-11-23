@@ -6,5 +6,4 @@ const constants = require('../constants');
 module.exports = async function() {
     bluebike.mapping();
     // velo.mapping(constants.velo);
-    // geojson.toGeojson();
 }

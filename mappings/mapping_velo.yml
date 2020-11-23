@@ -68,7 +68,7 @@ mappings:
         condition:
           function: idlab-fn:equal
           parameters:
-            - [grel:valueParameter, $(status.value)] # Proabably needs to be adjusted to the proper JSON structure
+            - [grel:valueParameter, $(status.value)]
             - [grel:valueParameter2, "working"]
       - p: ext:actief
         o:
@@ -77,5 +77,5 @@ mappings:
         condition:
           function: idlab-fn:notEqual
           parameters:
-            - [grel:valueParameter, $(status.value)] # Same here
+            - [grel:valueParameter, $(status.value)]
             - [grel:valueParameter2, "working"]
