@@ -1,3 +1,4 @@
+require('dotenv').config();
 const express = require('express')
 const cron = require('node-cron');
 const mapper = require('./src/index');
@@ -5,7 +6,6 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express()
-const port = 8080
 const dir = "./public";
 
 //run query every hour
@@ -33,5 +33,5 @@ var options = {
 app.use(express.static(path.join(__dirname, 'public'), options))
 
 app.listen(port, () => {
-  console.log(`Example app listening at http://localhost:${port}`)
+  console.log(`Example app listening at http://localhost:${process.env.PORT}`)
 })
