@@ -22,7 +22,7 @@ SELECT ?label ?aantal ?lat ?long {
   	?loc geo:long ?long .
 }`;
 
-exports.toGeojson = async () => {
+module.exports = async () => {
     var data = [];
   var myFile = fs.createWriteStream(constants.bluebike.geojson);
   fs.chmodSync(constants.bluebike.ld, 0o777);
