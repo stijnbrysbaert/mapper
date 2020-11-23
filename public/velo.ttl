@@ -240,141 +240,141 @@
   <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.432336" .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A006> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T11:00:43.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "2";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "11";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "22" .
+    "13" .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A022> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "27";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "23";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "6" .
+    "10" .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A023> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T11:00:43.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "4";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "23";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "32" .
+    "12" .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A024> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "6";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "7";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "24" .
+    "23" .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A025> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T11:00:43.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "13";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "21" .
-
-<https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A035> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "25";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "23";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
     "11" .
 
-<https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A036> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
+<https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A035> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T11:00:43.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "1";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "27";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "19" .
+    "8" .
+
+<https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A036> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T11:00:43.00Z";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "5";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
+    "16" .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A040> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T11:00:43.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "16";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "24";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "20" .
+    "12" .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A042> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T11:00:43.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "4";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "10";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "14" .
+    "10" .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A043> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T11:00:43.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "13";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "19";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "14" .
+    "11" .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A150> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "17";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
     "7" .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A151> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "23";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "26";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "13" .
+    "10" .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A201> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "13";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "24";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "23" .
+    "12" .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A203> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "14";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "22" .
-
-<https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A204> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "22";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "14" .
-
-<https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A205> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "20";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
     "16" .
 
-<https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A206> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
+<https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A204> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "20";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "23";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
     "13" .
 
-<https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A207> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
+<https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A205> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "10";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "24";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "14" .
+    "12" .
+
+<https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A206> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "26";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
+    "6" .
+
+<https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A207> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "6";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
+    "18" .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A208> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "27";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "29";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "9" .
+    "7" .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A214> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-10-30T10:48:47.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "25";
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "14";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "11" .
+    "22" .
