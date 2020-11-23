@@ -9,7 +9,7 @@ const app = express()
 const dir = "./public";
 
 //run query every hour
-cron.schedule('*/5 * * * *', function() {
+cron.schedule('*/2 * * * *', function() {
   if(!fs.existsSync(dir)){
     try{
       fs.mkdirSync(dir);
