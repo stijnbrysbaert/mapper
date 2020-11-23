@@ -1,6 +1,7 @@
 const fs = require('fs');
 var GeoJSON = require('geojson');
 const constants = require('../constants');
+const path = require('path');
 
 const newEngine = require('@comunica/actor-init-sparql').newEngine;
 const myEngine = newEngine();
@@ -24,8 +25,7 @@ SELECT ?label ?aantal ?lat ?long {
 
 module.exports = async () => {
     var data = [];
-  var myFile = fs.createWriteStream(constants.bluebike.geojson);
-  fs.chmodSync(constants.bluebike.ld, 0o777);
+  var myFile = fs.createWriteStream('public/bluebike.geojson');
   const result = await myEngine.query(query, {
     sources: [constants.endpoint + "bluebike.ttl"],
   });
@@ -39,6 +39,9 @@ module.exports = async () => {
     data.push(entry);
 });
 var geo = GeoJSON.parse(data, {Point: ['lat', 'lng']});
-myFile.write(JSON.stringify(geo));
+// myFile.write(JSON.stringify(geo), () => {
+//   console.log("mapped to geojson %s", new Date());
+// });
+fs.writeFileSync('public/bluebike.geojson', JSON.stringify(geo));
 console.log("mapped to geojson %s", new Date());
 }
