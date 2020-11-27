@@ -1,0 +1,452 @@
+[
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB001",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "BE",
+                "addressLocality": "Antwerpen",
+                "streetAddress": "Koningin Astridplein 27",
+                "postalCode": "2018"
+            },
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    4.420681905,
+                    51.217862041
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Station Antwerpen-centraal",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB002",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "BE",
+                "addressLocality": "Berchem",
+                "streetAddress": "Burgemeester Edgar Ryckaertsplein 1",
+                "postalCode": "2600"
+            },
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    4.431513998,
+                    51.1997328
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Station Antwerpen-Berchem",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB003",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "BE",
+                "addressLocality": "Mortsel",
+                "streetAddress": "Groten Hof",
+                "postalCode": "2640"
+            },
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    4.455960087,
+                    51.171256768
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Station Mortsel-Oude-God",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB004",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "BE",
+                "addressLocality": "Antwerpen",
+                "streetAddress": "Singel 37",
+                "postalCode": "2018"
+            },
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    4.390811798,
+                    51.198017577
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Station Antwerpen-Zuid",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB005",
+        "type": "BikeHireDockingStation",
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    4.35726539,
+                    50.844455261
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Brussel Centraal / Bruxelles Central",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB006",
+        "type": "BikeHireDockingStation",
+        "address": {
+            "type": "PostalAddress",
+            "value": {
+                "addressCountry": "BE",
+                "addressLocality": "Leuven",
+                "streetAddress": "Tiensevest",
+                "postalCode": "3000"
+            },
+            "metadata": {}
+        },
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    4.716943064,
+                    50.879482132
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Station Leuven Tiensevest",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB007",
+        "type": "BikeHireDockingStation",
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    4.825058672,
+                    50.983234454
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Station Aarschot",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB008",
+        "type": "BikeHireDockingStation",
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    4.825058672,
+                    50.983234454
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Station Sint-Truiden",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB009",
+        "type": "BikeHireDockingStation",
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    5.328433049,
+                    50.930479888
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Station Hasselt",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB010",
+        "type": "BikeHireDockingStation",
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    5.116681079,
+                    51.190099634
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Station Mol",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB011",
+        "type": "BikeHireDockingStation",
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    4.362621783,
+                    50.860969702
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Brussel Noord / Bruxelles Nord",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB012",
+        "type": "BikeHireDockingStation",
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    4.338820731,
+                    50.835066101
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Brussel Zuid / Bruxelles Midi",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB013",
+        "type": "BikeHireDockingStation",
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    4.241760504,
+                    50.733035758
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Station Halle",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB014",
+        "type": "BikeHireDockingStation",
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    4.863218085,
+                    50.467997581
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Gare de Namur",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB015",
+        "type": "BikeHireDockingStation",
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.264078057,
+                    50.823127916
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Station Kortijk",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB016",
+        "type": "BikeHireDockingStation",
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.535799983,
+                    50.977657827
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Station Deinze",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB017",
+        "type": "BikeHireDockingStation",
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.426128633,
+                    50.891378965
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Station Waregem",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB018",
+        "type": "BikeHireDockingStation",
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    5.567046053,
+                    50.625163747
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Gare de LiÃ¨ge-Guilemins",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB019",
+        "type": "BikeHireDockingStation",
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    3.219877047,
+                    51.196443935
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Station Brugge",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "BikeHireDockingStation:Blue-bike:BB020",
+        "type": "BikeHireDockingStation",
+        "location": {
+            "type": "geo:json",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    2.926869052,
+                    51.22778048
+                ]
+            },
+            "metadata": {}
+        },
+        "name": {
+            "type": "Text",
+            "value": "Station Oostende",
+            "metadata": {}
+        }
+    }
+]
