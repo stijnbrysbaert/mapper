@@ -1,163 +1,343 @@
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A006> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "006- Premetro Plantin";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A006>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A006> .
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A022> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "022- Statie";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A022>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A022> .
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A023> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "023- Rubenshuis";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A023>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A023> .
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A024> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "024- Opera";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A024>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A024> .
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A025> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "025- Teniersplaats";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A025>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A025> .
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A035> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "035- Cockerillkaai";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A035>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A035> .
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A036> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "036- Bourla";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A036>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A036> .
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A040> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "040- Desguinlei";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A040>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A040> .
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A042> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "042- Harmonie";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A042>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A042> .
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A043> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "043- Grétrystraat";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A043>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A043> .
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A150> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "150- Waterhoenlaan";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A150>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A150> .
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A151> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "151- Van Cauwelaert";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A151>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A151> .
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A201> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "201- Havana";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A201>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A201> .
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A203> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "203- Venezuelastraat";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A203>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A203> .
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A204> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "204- Luchtbal winkelcentrum";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A204>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A204> .
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A205> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "205- Kinepolis";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A205>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A205> .
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A206> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "206- Station Luchtbal";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A206>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A206> .
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A207> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "207- Winkelstap";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A207>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A207> .
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A208> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "208- Ringlaan Atheneum";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A208>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A208> .
 
 <https://example.be#BikeHireDockingStation%3AAntwerpen%3A214> a <http://purl.org/dc/terms/Location>,
-    <http://schema.mobivoc.org/ParkingFacility>, <https://data.vlaanderen.be/ns/adres#AdresseerbaarObject>,
-    <https://data.vlaanderen.be/ns/transportnetwerk#Transportobject>;
+    <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#Station>;
   <http://www.w3.org/2000/01/rdf-schema#label> "214- Kerkhofblommen";
   <http://www.w3.org/ns/locn#geometry> <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A214>;
   <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid>
     <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A214> .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A006> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "20" .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A022> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "10" .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A023> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "18" .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A024> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "23" .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A025> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "19" .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A035> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "14" .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A036> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "9" .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A040> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "19" .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A042> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "13" .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A043> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "26" .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A150> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "12" .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A151> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "23" .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A201> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "29" .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A203> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "12" .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A204> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "21" .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A205> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "10" .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A206> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "18" .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A207> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "14" .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A208> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "25" .
+
+<https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A214> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#DocksBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "25" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A006> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "4" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A022> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "23" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A023> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "17" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A024> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "7" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A025> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "15" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A035> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "22" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A036> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "9" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A040> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "15" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A042> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "6" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A043> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "4" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A150> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "12" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A151> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "13" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A201> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "7" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A203> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "23" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A204> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "15" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A205> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "26" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A206> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "15" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A207> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "10" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A208> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "11" .
+
+<https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A214> a <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#VoertuigenBeschikbaar>;
+  <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel>
+    <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#aantal> "11" .
 
 <https://example.be#location_BikeHireDockingStation%3AAntwerpen%3A006> a <http://www.w3.org/2003/01/geo/wgs84_pos#Point>;
   <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.210316661";
@@ -240,141 +420,161 @@
   <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.432336" .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A006> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T11:00:43.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "11";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "13" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A006>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A006> .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A022> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "23";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "10" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A022>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A022> .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A023> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T11:00:43.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "23";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "12" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A023>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A023> .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A024> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "7";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "23" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A024>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A024> .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A025> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T11:00:43.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "23";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "11" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A025>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A025> .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A035> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T11:00:43.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "27";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "8" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A035>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A035> .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A036> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T11:00:43.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "5";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "16" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A036>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A036> .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A040> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T11:00:43.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "24";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "12" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A040>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A040> .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A042> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T11:00:43.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "10";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "10" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A042>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A042> .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A043> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T11:00:43.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "19";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "11" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A043>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A043> .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A150> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "17";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "7" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A150>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A150> .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A151> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "26";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "10" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A151>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A151> .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A201> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "24";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "12" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A201>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A201> .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A203> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "20";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "16" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A203>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A203> .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A204> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "23";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "13" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A204>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A204> .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A205> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "24";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "12" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A205>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A205> .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A206> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "26";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "6" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A206>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A206> .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A207> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "6";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "18" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A207>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A207> .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A208> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "29";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "7" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A208>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A208> .
 
 <https://example.be#status_BikeHireDockingStation%3AAntwerpen%3A214> a <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Beschikbaarheid>;
-  <http://www.w3.org/ns/prov#generatedAtTime> "2020-11-23T10:59:17.00Z";
+  <http://www.w3.org/ns/prov#generatedAtTime> "2021-01-03T09:44:53.00Z";
   <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#actief> true;
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#plaatsenVrij> "14";
-  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigenBeschikbaar>
-    "22" .
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigDocksBeschikbaar>
+    <https://example.be#docksAvailable_BikeHireDockingStation%3AAntwerpen%3A214>;
+  <https://stijnbrysbaert.github.io/OSLO-extension/vocabulary.ttl#voertuigTypesBeschikbaar>
+    <https://example.be#itemsAvailable_BikeHireDockingStation%3AAntwerpen%3A214> .
