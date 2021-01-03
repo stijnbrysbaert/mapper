@@ -13,18 +13,27 @@ PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX tn:   <https://data.vlaanderen.be/ns/transportnetwerk#>
 PREFIX trips:<https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#>
+PREFIX types:<https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#>
 
 CONSTRUCT {
-    ?s rdf:type mv:ParkingFacility, tn:Transportobject, adr:AdresseerbaarObject, dc:Location .
+    ?s rdf:type ext:Station .
     ?s rdfs:label ?o .
     ?s geonames:nearby ?nearby .
     ?s ext:mobiliteitsdienst dienst:blue_bike .
     ?s trips:Transportobject.beschikbaarheid _:b .
     ?s locn:geometry _:g .
     _:b rdf:type trips:Beschikbaarheid ;
-        ext:totaalPlaatsen ?totCap ;
-        ext:voertuigenBeschikbaar ?cap ;
+        ext:voertuigTypesBeschikbaar _:vehicles ;
+        ext:voertuigDocksBeschikbaar _:docks ;
         prov:generatedAtTime ?time .
+    _:vehicles rdf:type ext:VoertuigenBeschikbaar ;
+        ext:aantal ?cap ;
+        trips:Resource.vervoermiddel types:bicycle .
+    _:docks rdf:type ext:DocksBeschikbaar ;
+        ext:aantal ?totCap ;
+        trips:Resource.vervoermiddel types:bicycle .
+    _:type rdf:type trips:Resourcetype ;
+           rdfs:label "stadsfiets"@nl .
     _:g rdf:type geo:Point ;
         geo:long ?long ;
         geo:lat ?lat .

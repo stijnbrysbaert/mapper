@@ -7,8 +7,8 @@ prefixes:
   foaf: 'http://xmlns.com/foaf/0.1/'
   geo:  'http://www.w3.org/2003/01/geo/wgs84_pos#'
   geonames: 'http://www.geonames.org/ontology#'
-  grel: http://users.ugent.be/~bjdmeest/function/grel.ttl#
-  idlab-fn: http://example.com/idlab/function/
+  grel: 'http://users.ugent.be/~bjdmeest/function/grel.ttl#'
+  idlab-fn: 'http://example.com/idlab/function/'
   locn: 'http://www.w3.org/ns/locn#'
   mv:   'http://schema.mobivoc.org/'
   prov: 'http://www.w3.org/ns/prov#'
@@ -16,6 +16,7 @@ prefixes:
   rdfs: 'http://www.w3.org/2000/01/rdf-schema#'
   tn:   'https://data.vlaanderen.be/ns/transportnetwerk#'
   trips: 'https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#'
+  types: 'https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#'
   xsd:  'http://www.w3.org/2001/XMLSchema#'
 
 mappings:
@@ -24,7 +25,7 @@ mappings:
       - ['velo.json~jsonpath', '$.velos[*]']
     s: ex:$(id)
     po:
-      - [a, [mv:ParkingFacility, tn:Transportobject, adr:AdresseerbaarObject, dc:Location]]
+      - [a, [ext:Station, dc:Location]]
       - [rdfs:label, $(name.value)]
       - p: locn:geometry
         o:
@@ -52,14 +53,46 @@ mappings:
       - [geo:long, '$(location.value.coordinates[0])']
       - [geo:lat, '$(location.value.coordinates[1])']
 
+  voertuigenBeschikbaar:
+    sources:
+      - ['velo.json~jsonpath', '$.velos[*]']
+    s: ex:itemsAvailable_$(id)
+    po:
+      - [a, ext:VoertuigenBeschikbaar]
+      - [ext:aantal, $(availableBikeNumber.value)]
+      - [trips:Resource.vervoermiddel, types:bicycle~iri]
+      
+  docksBeschikbaar:
+    sources:
+      - ['velo.json~jsonpath', '$.velos[*]']
+    s: ex:docksAvailable_$(id)
+    po:
+      - [a, ext:DocksBeschikbaar]
+      - [ext:aantal, $(freeSlotNumber.value)]
+      - [trips:Resource.vervoermiddel, types:bicycle~iri]
+
   status:
     sources:
       - ['velo.json~jsonpath', '$.velos[*]']
     s: ex:status_$(id)
     po:
       - [a, trips:Beschikbaarheid]
-      - [ext:voertuigenBeschikbaar, $(availableBikeNumber.value)]
-      - [ext:plaatsenVrij, $(freeSlotNumber.value)]
+      - p: ext:voertuigTypesBeschikbaar
+        o:
+          mapping: voertuigenBeschikbaar
+          condition:
+            function: equal
+            parameters:
+              - [str1, $(id)]
+              - [str2, $(id)]
+      - p: ext:voertuigDocksBeschikbaar
+        o:
+          mapping: docksBeschikbaar
+          condition:
+            function: equal
+            parameters:
+              - [str1, $(id)]
+              - [str2, $(id)]
       - [prov:generatedAtTime, $(availableBikeNumber.metadata.timestamp.value)]
       - p: ext:actief
         o:
