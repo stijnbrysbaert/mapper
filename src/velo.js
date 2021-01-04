@@ -21,7 +21,6 @@ function yarrrmlParser (jsonVelo){
                 writer.end(() => {resolve(jsonVelo)});
                 return;
         });
-        
 }
 
 async function rmlMapper(jsonVelo){
