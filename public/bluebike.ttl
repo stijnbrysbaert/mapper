@@ -23,7 +23,7 @@
 _:e_b0 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles0;
     ext:voertuigDocksBeschikbaar _:e_docks0;
-    prov:generatedAtTime "2021-01-21T08:20:05.743Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:04.066Z"^^xsd:date.
 _:e_vehicles0 a ext:VoertuigenBeschikbaar;
     ext:aantal "29"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -44,7 +44,7 @@ _:e_g0 a geo:Point;
 _:e_b1 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles1;
     ext:voertuigDocksBeschikbaar _:e_docks1;
-    prov:generatedAtTime "2021-01-21T08:20:06.209Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:04.608Z"^^xsd:date.
 _:e_vehicles1 a ext:VoertuigenBeschikbaar;
     ext:aantal "6"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -65,7 +65,7 @@ _:e_g1 a geo:Point;
 _:e_b2 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles2;
     ext:voertuigDocksBeschikbaar _:e_docks2;
-    prov:generatedAtTime "2021-01-21T08:20:06.731Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:05.091Z"^^xsd:date.
 _:e_vehicles2 a ext:VoertuigenBeschikbaar;
     ext:aantal "9"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -86,7 +86,7 @@ _:e_g2 a geo:Point;
 _:e_b3 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles3;
     ext:voertuigDocksBeschikbaar _:e_docks3;
-    prov:generatedAtTime "2021-01-21T08:20:07.204Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:05.581Z"^^xsd:date.
 _:e_vehicles3 a ext:VoertuigenBeschikbaar;
     ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -107,7 +107,7 @@ _:e_g3 a geo:Point;
 _:e_b4 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles4;
     ext:voertuigDocksBeschikbaar _:e_docks4;
-    prov:generatedAtTime "2021-01-21T08:20:07.686Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:06.016Z"^^xsd:date.
 _:e_vehicles4 a ext:VoertuigenBeschikbaar;
     ext:aantal "5"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -128,7 +128,7 @@ _:e_g4 a geo:Point;
 _:e_b5 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles5;
     ext:voertuigDocksBeschikbaar _:e_docks5;
-    prov:generatedAtTime "2021-01-21T08:20:08.300Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:06.632Z"^^xsd:date.
 _:e_vehicles5 a ext:VoertuigenBeschikbaar;
     ext:aantal "50"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -149,7 +149,7 @@ _:e_g5 a geo:Point;
 _:e_b6 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles6;
     ext:voertuigDocksBeschikbaar _:e_docks6;
-    prov:generatedAtTime "2021-01-21T08:20:08.797Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:07.117Z"^^xsd:date.
 _:e_vehicles6 a ext:VoertuigenBeschikbaar;
     ext:aantal "34"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -170,7 +170,7 @@ _:e_g6 a geo:Point;
 _:e_b7 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles7;
     ext:voertuigDocksBeschikbaar _:e_docks7;
-    prov:generatedAtTime "2021-01-21T08:20:09.269Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:07.557Z"^^xsd:date.
 _:e_vehicles7 a ext:VoertuigenBeschikbaar;
     ext:aantal "9"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -191,7 +191,7 @@ _:e_g7 a geo:Point;
 _:e_b8 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles8;
     ext:voertuigDocksBeschikbaar _:e_docks8;
-    prov:generatedAtTime "2021-01-21T08:20:09.733Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:07.986Z"^^xsd:date.
 _:e_vehicles8 a ext:VoertuigenBeschikbaar;
     ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -212,7 +212,7 @@ _:e_g8 a geo:Point;
 _:e_b9 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles9;
     ext:voertuigDocksBeschikbaar _:e_docks9;
-    prov:generatedAtTime "2021-01-21T08:20:10.176Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:08.423Z"^^xsd:date.
 _:e_vehicles9 a ext:VoertuigenBeschikbaar;
     ext:aantal "25"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -233,7 +233,7 @@ _:e_g9 a geo:Point;
 _:e_b10 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles10;
     ext:voertuigDocksBeschikbaar _:e_docks10;
-    prov:generatedAtTime "2021-01-21T08:20:10.787Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:09.108Z"^^xsd:date.
 _:e_vehicles10 a ext:VoertuigenBeschikbaar;
     ext:aantal "24"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -254,9 +254,9 @@ _:e_g10 a geo:Point;
 _:e_b11 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles11;
     ext:voertuigDocksBeschikbaar _:e_docks11;
-    prov:generatedAtTime "2021-01-21T08:20:11.253Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:09.602Z"^^xsd:date.
 _:e_vehicles11 a ext:VoertuigenBeschikbaar;
-    ext:aantal "15"^^xsd:integer;
+    ext:aantal "14"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks11 a ext:DocksBeschikbaar;
     ext:aantal "20"^^xsd:integer;
@@ -275,7 +275,7 @@ _:e_g11 a geo:Point;
 _:e_b12 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles12;
     ext:voertuigDocksBeschikbaar _:e_docks12;
-    prov:generatedAtTime "2021-01-21T08:20:11.693Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:10.151Z"^^xsd:date.
 _:e_vehicles12 a ext:VoertuigenBeschikbaar;
     ext:aantal "10"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -296,7 +296,7 @@ _:e_g12 a geo:Point;
 _:e_b13 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles13;
     ext:voertuigDocksBeschikbaar _:e_docks13;
-    prov:generatedAtTime "2021-01-21T08:20:12.126Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:10.759Z"^^xsd:date.
 _:e_vehicles13 a ext:VoertuigenBeschikbaar;
     ext:aantal "6"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -317,9 +317,9 @@ _:e_g13 a geo:Point;
 _:e_b14 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles14;
     ext:voertuigDocksBeschikbaar _:e_docks14;
-    prov:generatedAtTime "2021-01-21T08:20:12.590Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:11.283Z"^^xsd:date.
 _:e_vehicles14 a ext:VoertuigenBeschikbaar;
-    ext:aantal "45"^^xsd:integer;
+    ext:aantal "43"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks14 a ext:DocksBeschikbaar;
     ext:aantal "53"^^xsd:integer;
@@ -338,7 +338,7 @@ _:e_g14 a geo:Point;
 _:e_b15 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles15;
     ext:voertuigDocksBeschikbaar _:e_docks15;
-    prov:generatedAtTime "2021-01-21T08:20:13.211Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:11.980Z"^^xsd:date.
 _:e_vehicles15 a ext:VoertuigenBeschikbaar;
     ext:aantal "39"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -359,7 +359,7 @@ _:e_g15 a geo:Point;
 _:e_b16 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles16;
     ext:voertuigDocksBeschikbaar _:e_docks16;
-    prov:generatedAtTime "2021-01-21T08:20:13.683Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:12.543Z"^^xsd:date.
 _:e_vehicles16 a ext:VoertuigenBeschikbaar;
     ext:aantal "13"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -380,7 +380,7 @@ _:e_g16 a geo:Point;
 _:e_b17 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles17;
     ext:voertuigDocksBeschikbaar _:e_docks17;
-    prov:generatedAtTime "2021-01-21T08:20:14.264Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:13.253Z"^^xsd:date.
 _:e_vehicles17 a ext:VoertuigenBeschikbaar;
     ext:aantal "34"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -401,7 +401,7 @@ _:e_g17 a geo:Point;
 _:e_b18 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles18;
     ext:voertuigDocksBeschikbaar _:e_docks18;
-    prov:generatedAtTime "2021-01-21T08:20:14.719Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:13.749Z"^^xsd:date.
 _:e_vehicles18 a ext:VoertuigenBeschikbaar;
     ext:aantal "23"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -422,7 +422,7 @@ _:e_g18 a geo:Point;
 _:e_b19 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles19;
     ext:voertuigDocksBeschikbaar _:e_docks19;
-    prov:generatedAtTime "2021-01-21T08:20:15.169Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:14.269Z"^^xsd:date.
 _:e_vehicles19 a ext:VoertuigenBeschikbaar;
     ext:aantal "36"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -443,9 +443,9 @@ _:e_g19 a geo:Point;
 _:e_b20 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles20;
     ext:voertuigDocksBeschikbaar _:e_docks20;
-    prov:generatedAtTime "2021-01-21T08:20:15.680Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:14.791Z"^^xsd:date.
 _:e_vehicles20 a ext:VoertuigenBeschikbaar;
-    ext:aantal "58"^^xsd:integer;
+    ext:aantal "56"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks20 a ext:DocksBeschikbaar;
     ext:aantal "81"^^xsd:integer;
@@ -464,7 +464,7 @@ _:e_g20 a geo:Point;
 _:e_b21 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles21;
     ext:voertuigDocksBeschikbaar _:e_docks21;
-    prov:generatedAtTime "2021-01-21T08:20:16.119Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:15.275Z"^^xsd:date.
 _:e_vehicles21 a ext:VoertuigenBeschikbaar;
     ext:aantal "10"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -485,7 +485,7 @@ _:e_g21 a geo:Point;
 _:e_b22 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles22;
     ext:voertuigDocksBeschikbaar _:e_docks22;
-    prov:generatedAtTime "2021-01-21T08:20:16.559Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:15.762Z"^^xsd:date.
 _:e_vehicles22 a ext:VoertuigenBeschikbaar;
     ext:aantal "11"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -506,7 +506,7 @@ _:e_g22 a geo:Point;
 _:e_b23 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles23;
     ext:voertuigDocksBeschikbaar _:e_docks23;
-    prov:generatedAtTime "2021-01-21T08:20:17.000Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:16.282Z"^^xsd:date.
 _:e_vehicles23 a ext:VoertuigenBeschikbaar;
     ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -527,7 +527,7 @@ _:e_g23 a geo:Point;
 _:e_b24 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles24;
     ext:voertuigDocksBeschikbaar _:e_docks24;
-    prov:generatedAtTime "2021-01-21T08:20:17.481Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:16.897Z"^^xsd:date.
 _:e_vehicles24 a ext:VoertuigenBeschikbaar;
     ext:aantal "43"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -548,7 +548,7 @@ _:e_g24 a geo:Point;
 _:e_b25 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles25;
     ext:voertuigDocksBeschikbaar _:e_docks25;
-    prov:generatedAtTime "2021-01-21T08:20:17.944Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:17.456Z"^^xsd:date.
 _:e_vehicles25 a ext:VoertuigenBeschikbaar;
     ext:aantal "12"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -569,7 +569,7 @@ _:e_g25 a geo:Point;
 _:e_b26 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles26;
     ext:voertuigDocksBeschikbaar _:e_docks26;
-    prov:generatedAtTime "2021-01-21T08:20:18.385Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:17.982Z"^^xsd:date.
 _:e_vehicles26 a ext:VoertuigenBeschikbaar;
     ext:aantal "5"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -590,7 +590,7 @@ _:e_g26 a geo:Point;
 _:e_b27 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles27;
     ext:voertuigDocksBeschikbaar _:e_docks27;
-    prov:generatedAtTime "2021-01-21T08:20:18.826Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:18.743Z"^^xsd:date.
 _:e_vehicles27 a ext:VoertuigenBeschikbaar;
     ext:aantal "4"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -611,12 +611,12 @@ _:e_g27 a geo:Point;
 _:e_b28 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles28;
     ext:voertuigDocksBeschikbaar _:e_docks28;
-    prov:generatedAtTime "2021-01-21T08:20:19.295Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:19.535Z"^^xsd:date.
 _:e_vehicles28 a ext:VoertuigenBeschikbaar;
-    ext:aantal "47"^^xsd:integer;
+    ext:aantal "45"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks28 a ext:DocksBeschikbaar;
-    ext:aantal "61"^^xsd:integer;
+    ext:aantal "62"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_type28 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
@@ -632,9 +632,9 @@ _:e_g28 a geo:Point;
 _:e_b29 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles29;
     ext:voertuigDocksBeschikbaar _:e_docks29;
-    prov:generatedAtTime "2021-01-21T08:20:19.762Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:20.043Z"^^xsd:date.
 _:e_vehicles29 a ext:VoertuigenBeschikbaar;
-    ext:aantal "16"^^xsd:integer;
+    ext:aantal "15"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks29 a ext:DocksBeschikbaar;
     ext:aantal "26"^^xsd:integer;
@@ -653,7 +653,7 @@ _:e_g29 a geo:Point;
 _:e_b30 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles30;
     ext:voertuigDocksBeschikbaar _:e_docks30;
-    prov:generatedAtTime "2021-01-21T08:20:20.200Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:20.553Z"^^xsd:date.
 _:e_vehicles30 a ext:VoertuigenBeschikbaar;
     ext:aantal "15"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -674,7 +674,7 @@ _:e_g30 a geo:Point;
 _:e_b31 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles31;
     ext:voertuigDocksBeschikbaar _:e_docks31;
-    prov:generatedAtTime "2021-01-21T08:20:20.654Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:21.030Z"^^xsd:date.
 _:e_vehicles31 a ext:VoertuigenBeschikbaar;
     ext:aantal "9"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -695,7 +695,7 @@ _:e_g31 a geo:Point;
 _:e_b32 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles32;
     ext:voertuigDocksBeschikbaar _:e_docks32;
-    prov:generatedAtTime "2021-01-21T08:20:21.102Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:21.550Z"^^xsd:date.
 _:e_vehicles32 a ext:VoertuigenBeschikbaar;
     ext:aantal "5"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -716,7 +716,7 @@ _:e_g32 a geo:Point;
 _:e_b33 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles33;
     ext:voertuigDocksBeschikbaar _:e_docks33;
-    prov:generatedAtTime "2021-01-21T08:20:21.541Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:21.999Z"^^xsd:date.
 _:e_vehicles33 a ext:VoertuigenBeschikbaar;
     ext:aantal "15"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -737,7 +737,7 @@ _:e_g33 a geo:Point;
 _:e_b34 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles34;
     ext:voertuigDocksBeschikbaar _:e_docks34;
-    prov:generatedAtTime "2021-01-21T08:20:22.030Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:22.441Z"^^xsd:date.
 _:e_vehicles34 a ext:VoertuigenBeschikbaar;
     ext:aantal "26"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -758,7 +758,7 @@ _:e_g34 a geo:Point;
 _:e_b35 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles35;
     ext:voertuigDocksBeschikbaar _:e_docks35;
-    prov:generatedAtTime "2021-01-21T08:20:22.514Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:22.866Z"^^xsd:date.
 _:e_vehicles35 a ext:VoertuigenBeschikbaar;
     ext:aantal "12"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -779,7 +779,7 @@ _:e_g35 a geo:Point;
 _:e_b36 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles36;
     ext:voertuigDocksBeschikbaar _:e_docks36;
-    prov:generatedAtTime "2021-01-21T08:20:23.031Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:23.313Z"^^xsd:date.
 _:e_vehicles36 a ext:VoertuigenBeschikbaar;
     ext:aantal "5"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -800,7 +800,7 @@ _:e_g36 a geo:Point;
 _:e_b37 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles37;
     ext:voertuigDocksBeschikbaar _:e_docks37;
-    prov:generatedAtTime "2021-01-21T08:20:23.510Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:23.750Z"^^xsd:date.
 _:e_vehicles37 a ext:VoertuigenBeschikbaar;
     ext:aantal "14"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -821,7 +821,7 @@ _:e_g37 a geo:Point;
 _:e_b38 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles38;
     ext:voertuigDocksBeschikbaar _:e_docks38;
-    prov:generatedAtTime "2021-01-21T08:20:23.987Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:24.224Z"^^xsd:date.
 _:e_vehicles38 a ext:VoertuigenBeschikbaar;
     ext:aantal "10"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -842,7 +842,7 @@ _:e_g38 a geo:Point;
 _:e_b39 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles39;
     ext:voertuigDocksBeschikbaar _:e_docks39;
-    prov:generatedAtTime "2021-01-21T08:20:24.478Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:24.725Z"^^xsd:date.
 _:e_vehicles39 a ext:VoertuigenBeschikbaar;
     ext:aantal "10"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -863,7 +863,7 @@ _:e_g39 a geo:Point;
 _:e_b40 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles40;
     ext:voertuigDocksBeschikbaar _:e_docks40;
-    prov:generatedAtTime "2021-01-21T08:20:24.948Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:25.170Z"^^xsd:date.
 _:e_vehicles40 a ext:VoertuigenBeschikbaar;
     ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -884,7 +884,7 @@ _:e_g40 a geo:Point;
 _:e_b41 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles41;
     ext:voertuigDocksBeschikbaar _:e_docks41;
-    prov:generatedAtTime "2021-01-21T08:20:25.392Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:25.644Z"^^xsd:date.
 _:e_vehicles41 a ext:VoertuigenBeschikbaar;
     ext:aantal "9"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -905,7 +905,7 @@ _:e_g41 a geo:Point;
 _:e_b42 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles42;
     ext:voertuigDocksBeschikbaar _:e_docks42;
-    prov:generatedAtTime "2021-01-21T08:20:25.821Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:26.074Z"^^xsd:date.
 _:e_vehicles42 a ext:VoertuigenBeschikbaar;
     ext:aantal "5"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -926,7 +926,7 @@ _:e_g42 a geo:Point;
 _:e_b43 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles43;
     ext:voertuigDocksBeschikbaar _:e_docks43;
-    prov:generatedAtTime "2021-01-21T08:20:26.243Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:26.495Z"^^xsd:date.
 _:e_vehicles43 a ext:VoertuigenBeschikbaar;
     ext:aantal "6"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -947,7 +947,7 @@ _:e_g43 a geo:Point;
 _:e_b44 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles44;
     ext:voertuigDocksBeschikbaar _:e_docks44;
-    prov:generatedAtTime "2021-01-21T08:20:26.687Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:26.932Z"^^xsd:date.
 _:e_vehicles44 a ext:VoertuigenBeschikbaar;
     ext:aantal "6"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -968,7 +968,7 @@ _:e_g44 a geo:Point;
 _:e_b45 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles45;
     ext:voertuigDocksBeschikbaar _:e_docks45;
-    prov:generatedAtTime "2021-01-21T08:20:27.161Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:27.366Z"^^xsd:date.
 _:e_vehicles45 a ext:VoertuigenBeschikbaar;
     ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -989,7 +989,7 @@ _:e_g45 a geo:Point;
 _:e_b46 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles46;
     ext:voertuigDocksBeschikbaar _:e_docks46;
-    prov:generatedAtTime "2021-01-21T08:20:27.666Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:27.795Z"^^xsd:date.
 _:e_vehicles46 a ext:VoertuigenBeschikbaar;
     ext:aantal "7"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1010,7 +1010,7 @@ _:e_g46 a geo:Point;
 _:e_b47 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles47;
     ext:voertuigDocksBeschikbaar _:e_docks47;
-    prov:generatedAtTime "2021-01-21T08:20:28.141Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:28.218Z"^^xsd:date.
 _:e_vehicles47 a ext:VoertuigenBeschikbaar;
     ext:aantal "5"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1031,7 +1031,7 @@ _:e_g47 a geo:Point;
 _:e_b48 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles48;
     ext:voertuigDocksBeschikbaar _:e_docks48;
-    prov:generatedAtTime "2021-01-21T08:20:28.588Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:28.666Z"^^xsd:date.
 _:e_vehicles48 a ext:VoertuigenBeschikbaar;
     ext:aantal "6"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1052,7 +1052,7 @@ _:e_g48 a geo:Point;
 _:e_b49 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles49;
     ext:voertuigDocksBeschikbaar _:e_docks49;
-    prov:generatedAtTime "2021-01-21T08:20:29.057Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:29.087Z"^^xsd:date.
 _:e_vehicles49 a ext:VoertuigenBeschikbaar;
     ext:aantal "12"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1073,7 +1073,7 @@ _:e_g49 a geo:Point;
 _:e_b50 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles50;
     ext:voertuigDocksBeschikbaar _:e_docks50;
-    prov:generatedAtTime "2021-01-21T08:20:29.513Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:29.517Z"^^xsd:date.
 _:e_vehicles50 a ext:VoertuigenBeschikbaar;
     ext:aantal "12"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1094,7 +1094,7 @@ _:e_g50 a geo:Point;
 _:e_b51 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles51;
     ext:voertuigDocksBeschikbaar _:e_docks51;
-    prov:generatedAtTime "2021-01-21T08:20:29.953Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:29.940Z"^^xsd:date.
 _:e_vehicles51 a ext:VoertuigenBeschikbaar;
     ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1115,7 +1115,7 @@ _:e_g51 a geo:Point;
 _:e_b52 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles52;
     ext:voertuigDocksBeschikbaar _:e_docks52;
-    prov:generatedAtTime "2021-01-21T08:20:30.423Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:30.366Z"^^xsd:date.
 _:e_vehicles52 a ext:VoertuigenBeschikbaar;
     ext:aantal "12"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1136,7 +1136,7 @@ _:e_g52 a geo:Point;
 _:e_b53 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles53;
     ext:voertuigDocksBeschikbaar _:e_docks53;
-    prov:generatedAtTime "2021-01-21T08:20:30.922Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:30.793Z"^^xsd:date.
 _:e_vehicles53 a ext:VoertuigenBeschikbaar;
     ext:aantal "10"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1157,7 +1157,7 @@ _:e_g53 a geo:Point;
 _:e_b54 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles54;
     ext:voertuigDocksBeschikbaar _:e_docks54;
-    prov:generatedAtTime "2021-01-21T08:20:31.385Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:31.242Z"^^xsd:date.
 _:e_vehicles54 a ext:VoertuigenBeschikbaar;
     ext:aantal "5"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1178,7 +1178,7 @@ _:e_g54 a geo:Point;
 _:e_b55 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles55;
     ext:voertuigDocksBeschikbaar _:e_docks55;
-    prov:generatedAtTime "2021-01-21T08:20:31.829Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:31.711Z"^^xsd:date.
 _:e_vehicles55 a ext:VoertuigenBeschikbaar;
     ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1199,7 +1199,7 @@ _:e_g55 a geo:Point;
 _:e_b56 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles56;
     ext:voertuigDocksBeschikbaar _:e_docks56;
-    prov:generatedAtTime "2021-01-21T08:20:32.294Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:32.137Z"^^xsd:date.
 _:e_vehicles56 a ext:VoertuigenBeschikbaar;
     ext:aantal "7"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1220,7 +1220,7 @@ _:e_g56 a geo:Point;
 _:e_b57 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles57;
     ext:voertuigDocksBeschikbaar _:e_docks57;
-    prov:generatedAtTime "2021-01-21T08:20:32.795Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:32.601Z"^^xsd:date.
 _:e_vehicles57 a ext:VoertuigenBeschikbaar;
     ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1241,7 +1241,7 @@ _:e_g57 a geo:Point;
 _:e_b58 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles58;
     ext:voertuigDocksBeschikbaar _:e_docks58;
-    prov:generatedAtTime "2021-01-21T08:20:33.243Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:33.046Z"^^xsd:date.
 _:e_vehicles58 a ext:VoertuigenBeschikbaar;
     ext:aantal "5"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1262,7 +1262,7 @@ _:e_g58 a geo:Point;
 _:e_b59 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles59;
     ext:voertuigDocksBeschikbaar _:e_docks59;
-    prov:generatedAtTime "2021-01-21T08:20:33.704Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:33.465Z"^^xsd:date.
 _:e_vehicles59 a ext:VoertuigenBeschikbaar;
     ext:aantal "10"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1283,7 +1283,7 @@ _:e_g59 a geo:Point;
 _:e_b60 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles60;
     ext:voertuigDocksBeschikbaar _:e_docks60;
-    prov:generatedAtTime "2021-01-21T08:20:34.163Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:33.919Z"^^xsd:date.
 _:e_vehicles60 a ext:VoertuigenBeschikbaar;
     ext:aantal "45"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1304,7 +1304,7 @@ _:e_g60 a geo:Point;
 _:e_b61 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles61;
     ext:voertuigDocksBeschikbaar _:e_docks61;
-    prov:generatedAtTime "2021-01-21T08:20:34.623Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:34.372Z"^^xsd:date.
 _:e_vehicles61 a ext:VoertuigenBeschikbaar;
     ext:aantal "10"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1325,7 +1325,7 @@ _:e_g61 a geo:Point;
 _:e_b62 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles62;
     ext:voertuigDocksBeschikbaar _:e_docks62;
-    prov:generatedAtTime "2021-01-21T08:20:35.122Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:34.818Z"^^xsd:date.
 _:e_vehicles62 a ext:VoertuigenBeschikbaar;
     ext:aantal "27"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1346,7 +1346,7 @@ _:e_g62 a geo:Point;
 _:e_b63 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles63;
     ext:voertuigDocksBeschikbaar _:e_docks63;
-    prov:generatedAtTime "2021-01-21T08:20:35.591Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:35.247Z"^^xsd:date.
 _:e_vehicles63 a ext:VoertuigenBeschikbaar;
     ext:aantal "11"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1367,7 +1367,7 @@ _:e_g63 a geo:Point;
 _:e_b64 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles64;
     ext:voertuigDocksBeschikbaar _:e_docks64;
-    prov:generatedAtTime "2021-01-21T08:20:36.065Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:35.694Z"^^xsd:date.
 _:e_vehicles64 a ext:VoertuigenBeschikbaar;
     ext:aantal "9"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1388,7 +1388,7 @@ _:e_g64 a geo:Point;
 _:e_b65 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles65;
     ext:voertuigDocksBeschikbaar _:e_docks65;
-    prov:generatedAtTime "2021-01-21T08:20:36.539Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:36.154Z"^^xsd:date.
 _:e_vehicles65 a ext:VoertuigenBeschikbaar;
     ext:aantal "12"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1409,7 +1409,7 @@ _:e_g65 a geo:Point;
 _:e_b66 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles66;
     ext:voertuigDocksBeschikbaar _:e_docks66;
-    prov:generatedAtTime "2021-01-21T08:20:37.005Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:36.594Z"^^xsd:date.
 _:e_vehicles66 a ext:VoertuigenBeschikbaar;
     ext:aantal "7"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
@@ -1430,7 +1430,7 @@ _:e_g66 a geo:Point;
 _:e_b67 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles67;
     ext:voertuigDocksBeschikbaar _:e_docks67;
-    prov:generatedAtTime "2021-01-21T08:20:37.446Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T08:30:37.021Z"^^xsd:date.
 _:e_vehicles67 a ext:VoertuigenBeschikbaar;
     ext:aantal "6"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
