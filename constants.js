@@ -5,7 +5,7 @@ module.exports = {
         geojson: "./public/bluebike.geojson"
     },
     velo: {
-        get_entities: "https://ext-api-gw-p.antwerpen.be/digipolis/sabhdsveloa/v1/entities?limit=100",
+        get_entities: "https://ext-api-gw-p.antwerpen.be/digipolis/sabhdsveloa/v1/entities?limit=50",
         rml: "./resources/velo.rml.ttl",   
         ld: "./public/velo.ttl",
         yarrrml: "./mappings/mapping_velo.yml"
