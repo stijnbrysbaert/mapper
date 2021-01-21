@@ -23,12 +23,12 @@
 _:e_b0 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles0;
     ext:voertuigDocksBeschikbaar _:e_docks0;
-    prov:generatedAtTime "2021-01-03T08:20:04.783Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T07:40:05.924Z"^^xsd:date.
 _:e_vehicles0 a ext:VoertuigenBeschikbaar;
-    ext:aantal "40"^^xsd:integer;
+    ext:aantal "29"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks0 a ext:DocksBeschikbaar;
-    ext:aantal "42"^^xsd:integer;
+    ext:aantal "37"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_type0 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
@@ -44,12 +44,12 @@ _:e_g0 a geo:Point;
 _:e_b1 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles1;
     ext:voertuigDocksBeschikbaar _:e_docks1;
-    prov:generatedAtTime "2021-01-03T08:20:05.303Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T07:40:06.383Z"^^xsd:date.
 _:e_vehicles1 a ext:VoertuigenBeschikbaar;
-    ext:aantal "5"^^xsd:integer;
+    ext:aantal "7"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks1 a ext:DocksBeschikbaar;
-    ext:aantal "7"^^xsd:integer;
+    ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_type1 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
@@ -65,12 +65,12 @@ _:e_g1 a geo:Point;
 _:e_b2 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles2;
     ext:voertuigDocksBeschikbaar _:e_docks2;
-    prov:generatedAtTime "2021-01-03T08:20:05.798Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T07:40:06.839Z"^^xsd:date.
 _:e_vehicles2 a ext:VoertuigenBeschikbaar;
-    ext:aantal "8"^^xsd:integer;
+    ext:aantal "10"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks2 a ext:DocksBeschikbaar;
-    ext:aantal "11"^^xsd:integer;
+    ext:aantal "10"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_type2 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
@@ -86,12 +86,12 @@ _:e_g2 a geo:Point;
 _:e_b3 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles3;
     ext:voertuigDocksBeschikbaar _:e_docks3;
-    prov:generatedAtTime "2021-01-03T08:20:06.230Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T07:40:07.283Z"^^xsd:date.
 _:e_vehicles3 a ext:VoertuigenBeschikbaar;
-    ext:aantal "12"^^xsd:integer;
+    ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks3 a ext:DocksBeschikbaar;
-    ext:aantal "12"^^xsd:integer;
+    ext:aantal "11"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_type3 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
@@ -107,9 +107,9 @@ _:e_g3 a geo:Point;
 _:e_b4 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles4;
     ext:voertuigDocksBeschikbaar _:e_docks4;
-    prov:generatedAtTime "2021-01-03T08:20:06.674Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T07:40:07.710Z"^^xsd:date.
 _:e_vehicles4 a ext:VoertuigenBeschikbaar;
-    ext:aantal "3"^^xsd:integer;
+    ext:aantal "5"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks4 a ext:DocksBeschikbaar;
     ext:aantal "5"^^xsd:integer;
@@ -128,12 +128,12 @@ _:e_g4 a geo:Point;
 _:e_b5 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles5;
     ext:voertuigDocksBeschikbaar _:e_docks5;
-    prov:generatedAtTime "2021-01-03T08:20:07.280Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T07:40:08.302Z"^^xsd:date.
 _:e_vehicles5 a ext:VoertuigenBeschikbaar;
-    ext:aantal "48"^^xsd:integer;
+    ext:aantal "53"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks5 a ext:DocksBeschikbaar;
-    ext:aantal "66"^^xsd:integer;
+    ext:aantal "68"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_type5 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
@@ -149,12 +149,12 @@ _:e_g5 a geo:Point;
 _:e_b6 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles6;
     ext:voertuigDocksBeschikbaar _:e_docks6;
-    prov:generatedAtTime "2021-01-03T08:20:07.740Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T07:40:08.750Z"^^xsd:date.
 _:e_vehicles6 a ext:VoertuigenBeschikbaar;
-    ext:aantal "34"^^xsd:integer;
+    ext:aantal "35"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks6 a ext:DocksBeschikbaar;
-    ext:aantal "36"^^xsd:integer;
+    ext:aantal "40"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_type6 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
@@ -170,9 +170,9 @@ _:e_g6 a geo:Point;
 _:e_b7 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles7;
     ext:voertuigDocksBeschikbaar _:e_docks7;
-    prov:generatedAtTime "2021-01-03T08:20:08.176Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T07:40:09.190Z"^^xsd:date.
 _:e_vehicles7 a ext:VoertuigenBeschikbaar;
-    ext:aantal "10"^^xsd:integer;
+    ext:aantal "11"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks7 a ext:DocksBeschikbaar;
     ext:aantal "11"^^xsd:integer;
@@ -191,12 +191,12 @@ _:e_g7 a geo:Point;
 _:e_b8 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles8;
     ext:voertuigDocksBeschikbaar _:e_docks8;
-    prov:generatedAtTime "2021-01-03T08:20:08.606Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T07:40:09.662Z"^^xsd:date.
 _:e_vehicles8 a ext:VoertuigenBeschikbaar;
-    ext:aantal "6"^^xsd:integer;
+    ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks8 a ext:DocksBeschikbaar;
-    ext:aantal "7"^^xsd:integer;
+    ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_type8 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
@@ -212,723 +212,723 @@ _:e_g8 a geo:Point;
 _:e_b9 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles9;
     ext:voertuigDocksBeschikbaar _:e_docks9;
-    prov:generatedAtTime "2021-01-03T08:20:09.047Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T07:40:10.097Z"^^xsd:date.
 _:e_vehicles9 a ext:VoertuigenBeschikbaar;
-    ext:aantal "22"^^xsd:integer;
+    ext:aantal "25"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks9 a ext:DocksBeschikbaar;
-    ext:aantal "23"^^xsd:integer;
+    ext:aantal "25"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_type9 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
 _:e_g9 a geo:Point;
     geo:long "4.36049E0"^^xsd:float;
     geo:lat "5.08601E1"^^xsd:float.
-<http://irail.be/stations/bluebike/BrusselZuid> a ext:Station;
-    rdfs:label "Brussel Zuid";
-    geonames:nearby <http://irail.be/stations/NMBS/008814001>;
+<http://irail.be/stations/bluebike/Deinze> a ext:Station;
+    rdfs:label "Deinze";
+    geonames:nearby <http://irail.be/stations/NMBS/008892106>;
     ext:mobiliteitsdienst dienst:blue_bike;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b10;
     locn:geometry _:e_g10.
 _:e_b10 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles10;
     ext:voertuigDocksBeschikbaar _:e_docks10;
-    prov:generatedAtTime "2021-01-03T08:20:09.490Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T07:40:10.681Z"^^xsd:date.
 _:e_vehicles10 a ext:VoertuigenBeschikbaar;
-    ext:aantal "0"^^xsd:integer;
+    ext:aantal "25"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks10 a ext:DocksBeschikbaar;
-    ext:aantal "0"^^xsd:integer;
+    ext:aantal "72"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_type10 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
 _:e_g10 a geo:Point;
-    geo:long "4.33789E0"^^xsd:float;
-    geo:lat "5.0836E1"^^xsd:float.
-<http://irail.be/stations/bluebike/Deinze> a ext:Station;
-    rdfs:label "Deinze";
-    geonames:nearby <http://irail.be/stations/NMBS/008892106>;
-    ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b11;
-    locn:geometry _:e_g11.
-_:e_b11 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles11;
-    ext:voertuigDocksBeschikbaar _:e_docks11;
-    prov:generatedAtTime "2021-01-03T08:20:10.100Z"^^xsd:date.
-_:e_vehicles11 a ext:VoertuigenBeschikbaar;
-    ext:aantal "55"^^xsd:integer;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks11 a ext:DocksBeschikbaar;
-    ext:aantal "63"^^xsd:integer;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type11 a trips:Resourcetype;
-    rdfs:label "stadsfiets"@nl.
-_:e_g11 a geo:Point;
     geo:long "3.53401E0"^^xsd:float;
     geo:lat "5.09782E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Dendermonde> a ext:Station;
     rdfs:label "Dendermonde";
     geonames:nearby <http://irail.be/stations/NMBS/008893401>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b12;
-    locn:geometry _:e_g12.
-_:e_b12 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles12;
-    ext:voertuigDocksBeschikbaar _:e_docks12;
-    prov:generatedAtTime "2021-01-03T08:20:11.554Z"^^xsd:date.
-_:e_vehicles12 a ext:VoertuigenBeschikbaar;
-    ext:aantal "16"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b11;
+    locn:geometry _:e_g11.
+_:e_b11 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles11;
+    ext:voertuigDocksBeschikbaar _:e_docks11;
+    prov:generatedAtTime "2021-01-21T07:40:11.118Z"^^xsd:date.
+_:e_vehicles11 a ext:VoertuigenBeschikbaar;
+    ext:aantal "17"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks12 a ext:DocksBeschikbaar;
-    ext:aantal "22"^^xsd:integer;
+_:e_docks11 a ext:DocksBeschikbaar;
+    ext:aantal "20"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type12 a trips:Resourcetype;
+_:e_type11 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g12 a geo:Point;
+_:e_g11 a geo:Point;
     geo:long "4.10192E0"^^xsd:float;
     geo:lat "5.10235E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Diest> a ext:Station;
     rdfs:label "Diest";
     geonames:nearby <http://irail.be/stations/NMBS/008831401>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b13;
-    locn:geometry _:e_g13.
-_:e_b13 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles13;
-    ext:voertuigDocksBeschikbaar _:e_docks13;
-    prov:generatedAtTime "2021-01-03T08:20:11.984Z"^^xsd:date.
-_:e_vehicles13 a ext:VoertuigenBeschikbaar;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b12;
+    locn:geometry _:e_g12.
+_:e_b12 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles12;
+    ext:voertuigDocksBeschikbaar _:e_docks12;
+    prov:generatedAtTime "2021-01-21T07:40:11.579Z"^^xsd:date.
+_:e_vehicles12 a ext:VoertuigenBeschikbaar;
     ext:aantal "10"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks13 a ext:DocksBeschikbaar;
+_:e_docks12 a ext:DocksBeschikbaar;
     ext:aantal "10"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type13 a trips:Resourcetype;
+_:e_type12 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g13 a geo:Point;
+_:e_g12 a geo:Point;
     geo:long "5.05113E0"^^xsd:float;
     geo:lat "5.0993E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Genk> a ext:Station;
     rdfs:label "Genk";
     geonames:nearby <http://irail.be/stations/NMBS/008831765>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b14;
-    locn:geometry _:e_g14.
-_:e_b14 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles14;
-    ext:voertuigDocksBeschikbaar _:e_docks14;
-    prov:generatedAtTime "2021-01-03T08:20:12.409Z"^^xsd:date.
-_:e_vehicles14 a ext:VoertuigenBeschikbaar;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b13;
+    locn:geometry _:e_g13.
+_:e_b13 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles13;
+    ext:voertuigDocksBeschikbaar _:e_docks13;
+    prov:generatedAtTime "2021-01-21T07:40:12.036Z"^^xsd:date.
+_:e_vehicles13 a ext:VoertuigenBeschikbaar;
     ext:aantal "6"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks14 a ext:DocksBeschikbaar;
+_:e_docks13 a ext:DocksBeschikbaar;
     ext:aantal "7"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type14 a trips:Resourcetype;
+_:e_type13 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g14 a geo:Point;
+_:e_g13 a geo:Point;
     geo:long "5.49637E0"^^xsd:float;
     geo:lat "5.09671E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Gent-Dampoort> a ext:Station;
     rdfs:label "Gent-Dampoort";
     geonames:nearby <http://irail.be/stations/NMBS/008893120>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b15;
-    locn:geometry _:e_g15.
-_:e_b15 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles15;
-    ext:voertuigDocksBeschikbaar _:e_docks15;
-    prov:generatedAtTime "2021-01-03T08:20:12.877Z"^^xsd:date.
-_:e_vehicles15 a ext:VoertuigenBeschikbaar;
-    ext:aantal "42"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b14;
+    locn:geometry _:e_g14.
+_:e_b14 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles14;
+    ext:voertuigDocksBeschikbaar _:e_docks14;
+    prov:generatedAtTime "2021-01-21T07:40:12.489Z"^^xsd:date.
+_:e_vehicles14 a ext:VoertuigenBeschikbaar;
+    ext:aantal "45"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks15 a ext:DocksBeschikbaar;
+_:e_docks14 a ext:DocksBeschikbaar;
     ext:aantal "53"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type15 a trips:Resourcetype;
+_:e_type14 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g15 a geo:Point;
+_:e_g14 a geo:Point;
     geo:long "3.74016E0"^^xsd:float;
     geo:lat "5.1056E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Gent-Sint-Pieters(St.-Denijslaan)> a ext:Station;
     rdfs:label "Gent-Sint-Pieters (St.-Denijslaan)";
     geonames:nearby <http://irail.be/stations/NMBS/008892007>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b16;
-    locn:geometry _:e_g16.
-_:e_b16 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles16;
-    ext:voertuigDocksBeschikbaar _:e_docks16;
-    prov:generatedAtTime "2021-01-03T08:20:13.471Z"^^xsd:date.
-_:e_vehicles16 a ext:VoertuigenBeschikbaar;
-    ext:aantal "41"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b15;
+    locn:geometry _:e_g15.
+_:e_b15 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles15;
+    ext:voertuigDocksBeschikbaar _:e_docks15;
+    prov:generatedAtTime "2021-01-21T07:40:13.073Z"^^xsd:date.
+_:e_vehicles15 a ext:VoertuigenBeschikbaar;
+    ext:aantal "39"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks16 a ext:DocksBeschikbaar;
-    ext:aantal "53"^^xsd:integer;
+_:e_docks15 a ext:DocksBeschikbaar;
+    ext:aantal "47"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type16 a trips:Resourcetype;
+_:e_type15 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g16 a geo:Point;
+_:e_g15 a geo:Point;
     geo:long "3.70964E0"^^xsd:float;
     geo:lat "5.10349E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Halle> a ext:Station;
     rdfs:label "Halle";
     geonames:nearby <http://irail.be/stations/NMBS/008814308>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b17;
-    locn:geometry _:e_g17.
-_:e_b17 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles17;
-    ext:voertuigDocksBeschikbaar _:e_docks17;
-    prov:generatedAtTime "2021-01-03T08:20:13.907Z"^^xsd:date.
-_:e_vehicles17 a ext:VoertuigenBeschikbaar;
-    ext:aantal "16"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b16;
+    locn:geometry _:e_g16.
+_:e_b16 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles16;
+    ext:voertuigDocksBeschikbaar _:e_docks16;
+    prov:generatedAtTime "2021-01-21T07:40:13.508Z"^^xsd:date.
+_:e_vehicles16 a ext:VoertuigenBeschikbaar;
+    ext:aantal "14"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks17 a ext:DocksBeschikbaar;
-    ext:aantal "20"^^xsd:integer;
+_:e_docks16 a ext:DocksBeschikbaar;
+    ext:aantal "19"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type17 a trips:Resourcetype;
+_:e_type16 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g17 a geo:Point;
+_:e_g16 a geo:Point;
     geo:long "4.23994E0"^^xsd:float;
     geo:lat "5.07334E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Hasselt> a ext:Station;
     rdfs:label "Hasselt";
     geonames:nearby <http://irail.be/stations/NMBS/008831005>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b18;
-    locn:geometry _:e_g18.
-_:e_b18 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles18;
-    ext:voertuigDocksBeschikbaar _:e_docks18;
-    prov:generatedAtTime "2021-01-03T08:20:14.492Z"^^xsd:date.
-_:e_vehicles18 a ext:VoertuigenBeschikbaar;
-    ext:aantal "44"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b17;
+    locn:geometry _:e_g17.
+_:e_b17 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles17;
+    ext:voertuigDocksBeschikbaar _:e_docks17;
+    prov:generatedAtTime "2021-01-21T07:40:14.117Z"^^xsd:date.
+_:e_vehicles17 a ext:VoertuigenBeschikbaar;
+    ext:aantal "35"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks18 a ext:DocksBeschikbaar;
-    ext:aantal "48"^^xsd:integer;
+_:e_docks17 a ext:DocksBeschikbaar;
+    ext:aantal "49"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type18 a trips:Resourcetype;
+_:e_type17 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g18 a geo:Point;
+_:e_g17 a geo:Point;
     geo:long "5.32742E0"^^xsd:float;
     geo:lat "5.0931E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Herentals> a ext:Station;
     rdfs:label "Herentals";
     geonames:nearby <http://irail.be/stations/NMBS/008821717>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b19;
-    locn:geometry _:e_g19.
-_:e_b19 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles19;
-    ext:voertuigDocksBeschikbaar _:e_docks19;
-    prov:generatedAtTime "2021-01-03T08:20:14.947Z"^^xsd:date.
-_:e_vehicles19 a ext:VoertuigenBeschikbaar;
-    ext:aantal "24"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b18;
+    locn:geometry _:e_g18.
+_:e_b18 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles18;
+    ext:voertuigDocksBeschikbaar _:e_docks18;
+    prov:generatedAtTime "2021-01-21T07:40:14.554Z"^^xsd:date.
+_:e_vehicles18 a ext:VoertuigenBeschikbaar;
+    ext:aantal "22"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks19 a ext:DocksBeschikbaar;
+_:e_docks18 a ext:DocksBeschikbaar;
     ext:aantal "28"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type19 a trips:Resourcetype;
+_:e_type18 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g19 a geo:Point;
+_:e_g18 a geo:Point;
     geo:long "4.82886E0"^^xsd:float;
     geo:lat "5.1181E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Kortrijk> a ext:Station;
     rdfs:label "Kortrijk";
     geonames:nearby <http://irail.be/stations/NMBS/008896008>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b20;
-    locn:geometry _:e_g20.
-_:e_b20 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles20;
-    ext:voertuigDocksBeschikbaar _:e_docks20;
-    prov:generatedAtTime "2021-01-03T08:20:15.408Z"^^xsd:date.
-_:e_vehicles20 a ext:VoertuigenBeschikbaar;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b19;
+    locn:geometry _:e_g19.
+_:e_b19 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles19;
+    ext:voertuigDocksBeschikbaar _:e_docks19;
+    prov:generatedAtTime "2021-01-21T07:40:15.008Z"^^xsd:date.
+_:e_vehicles19 a ext:VoertuigenBeschikbaar;
+    ext:aantal "39"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
+_:e_docks19 a ext:DocksBeschikbaar;
     ext:aantal "48"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks20 a ext:DocksBeschikbaar;
-    ext:aantal "48"^^xsd:integer;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type20 a trips:Resourcetype;
+_:e_type19 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g20 a geo:Point;
+_:e_g19 a geo:Point;
     geo:long "3.26327E0"^^xsd:float;
     geo:lat "5.08238E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Leuven(Tiensevest)> a ext:Station;
     rdfs:label "Leuven (Tiensevest)";
     geonames:nearby <http://irail.be/stations/NMBS/008833001>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b21;
-    locn:geometry _:e_g21.
-_:e_b21 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles21;
-    ext:voertuigDocksBeschikbaar _:e_docks21;
-    prov:generatedAtTime "2021-01-03T08:20:15.920Z"^^xsd:date.
-_:e_vehicles21 a ext:VoertuigenBeschikbaar;
-    ext:aantal "51"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b20;
+    locn:geometry _:e_g20.
+_:e_b20 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles20;
+    ext:voertuigDocksBeschikbaar _:e_docks20;
+    prov:generatedAtTime "2021-01-21T07:40:15.494Z"^^xsd:date.
+_:e_vehicles20 a ext:VoertuigenBeschikbaar;
+    ext:aantal "64"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks21 a ext:DocksBeschikbaar;
-    ext:aantal "83"^^xsd:integer;
+_:e_docks20 a ext:DocksBeschikbaar;
+    ext:aantal "81"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type21 a trips:Resourcetype;
+_:e_type20 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g21 a geo:Point;
+_:e_g20 a geo:Point;
     geo:long "4.71594E0"^^xsd:float;
     geo:lat "5.08798E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Lier> a ext:Station;
     rdfs:label "Lier";
     geonames:nearby <http://irail.be/stations/NMBS/008821600>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b22;
-    locn:geometry _:e_g22.
-_:e_b22 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles22;
-    ext:voertuigDocksBeschikbaar _:e_docks22;
-    prov:generatedAtTime "2021-01-03T08:20:16.352Z"^^xsd:date.
-_:e_vehicles22 a ext:VoertuigenBeschikbaar;
-    ext:aantal "5"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b21;
+    locn:geometry _:e_g21.
+_:e_b21 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles21;
+    ext:voertuigDocksBeschikbaar _:e_docks21;
+    prov:generatedAtTime "2021-01-21T07:40:15.932Z"^^xsd:date.
+_:e_vehicles21 a ext:VoertuigenBeschikbaar;
+    ext:aantal "10"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks22 a ext:DocksBeschikbaar;
-    ext:aantal "13"^^xsd:integer;
+_:e_docks21 a ext:DocksBeschikbaar;
+    ext:aantal "11"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type22 a trips:Resourcetype;
+_:e_type21 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g22 a geo:Point;
+_:e_g21 a geo:Point;
     geo:long "4.56152E0"^^xsd:float;
     geo:lat "5.11358E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Lokeren> a ext:Station;
     rdfs:label "Lokeren";
     geonames:nearby <http://irail.be/stations/NMBS/008894201>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b23;
-    locn:geometry _:e_g23.
-_:e_b23 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles23;
-    ext:voertuigDocksBeschikbaar _:e_docks23;
-    prov:generatedAtTime "2021-01-03T08:20:16.784Z"^^xsd:date.
-_:e_vehicles23 a ext:VoertuigenBeschikbaar;
-    ext:aantal "14"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b22;
+    locn:geometry _:e_g22.
+_:e_b22 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles22;
+    ext:voertuigDocksBeschikbaar _:e_docks22;
+    prov:generatedAtTime "2021-01-21T07:40:16.353Z"^^xsd:date.
+_:e_vehicles22 a ext:VoertuigenBeschikbaar;
+    ext:aantal "11"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks23 a ext:DocksBeschikbaar;
+_:e_docks22 a ext:DocksBeschikbaar;
     ext:aantal "16"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type23 a trips:Resourcetype;
+_:e_type22 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g23 a geo:Point;
+_:e_g22 a geo:Point;
     geo:long "3.98647E0"^^xsd:float;
     geo:lat "5.11074E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Luik> a ext:Station;
     rdfs:label "Luik";
     geonames:nearby <http://irail.be/stations/NMBS/008841004>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b24;
-    locn:geometry _:e_g24.
-_:e_b24 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles24;
-    ext:voertuigDocksBeschikbaar _:e_docks24;
-    prov:generatedAtTime "2021-01-03T08:20:17.215Z"^^xsd:date.
-_:e_vehicles24 a ext:VoertuigenBeschikbaar;
-    ext:aantal "3"^^xsd:integer;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks24 a ext:DocksBeschikbaar;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b23;
+    locn:geometry _:e_g23.
+_:e_b23 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles23;
+    ext:voertuigDocksBeschikbaar _:e_docks23;
+    prov:generatedAtTime "2021-01-21T07:40:16.782Z"^^xsd:date.
+_:e_vehicles23 a ext:VoertuigenBeschikbaar;
     ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type24 a trips:Resourcetype;
+_:e_docks23 a ext:DocksBeschikbaar;
+    ext:aantal "8"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
+_:e_type23 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g24 a geo:Point;
+_:e_g23 a geo:Point;
     geo:long "5.56564E0"^^xsd:float;
     geo:lat "5.06258E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Mechelen> a ext:Station;
     rdfs:label "Mechelen";
     geonames:nearby <http://irail.be/stations/NMBS/008822004>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b25;
-    locn:geometry _:e_g25.
-_:e_b25 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles25;
-    ext:voertuigDocksBeschikbaar _:e_docks25;
-    prov:generatedAtTime "2021-01-03T08:20:17.703Z"^^xsd:date.
-_:e_vehicles25 a ext:VoertuigenBeschikbaar;
-    ext:aantal "68"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b24;
+    locn:geometry _:e_g24.
+_:e_b24 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles24;
+    ext:voertuigDocksBeschikbaar _:e_docks24;
+    prov:generatedAtTime "2021-01-21T07:40:17.271Z"^^xsd:date.
+_:e_vehicles24 a ext:VoertuigenBeschikbaar;
+    ext:aantal "48"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks25 a ext:DocksBeschikbaar;
+_:e_docks24 a ext:DocksBeschikbaar;
     ext:aantal "74"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type25 a trips:Resourcetype;
+_:e_type24 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g25 a geo:Point;
+_:e_g24 a geo:Point;
     geo:long "4.48299E0"^^xsd:float;
     geo:lat "5.10178E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Mol> a ext:Station;
     rdfs:label "Mol";
     geonames:nearby <http://irail.be/stations/NMBS/008832409>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b26;
-    locn:geometry _:e_g26.
-_:e_b26 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles26;
-    ext:voertuigDocksBeschikbaar _:e_docks26;
-    prov:generatedAtTime "2021-01-03T08:20:18.135Z"^^xsd:date.
-_:e_vehicles26 a ext:VoertuigenBeschikbaar;
-    ext:aantal "14"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b25;
+    locn:geometry _:e_g25.
+_:e_b25 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles25;
+    ext:voertuigDocksBeschikbaar _:e_docks25;
+    prov:generatedAtTime "2021-01-21T07:40:17.703Z"^^xsd:date.
+_:e_vehicles25 a ext:VoertuigenBeschikbaar;
+    ext:aantal "12"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks26 a ext:DocksBeschikbaar;
+_:e_docks25 a ext:DocksBeschikbaar;
     ext:aantal "16"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type26 a trips:Resourcetype;
+_:e_type25 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g26 a geo:Point;
+_:e_g25 a geo:Point;
     geo:long "5.11513E0"^^xsd:float;
     geo:lat "5.11905E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Mortsel-Oude-God> a ext:Station;
     rdfs:label "Mortsel-Oude-God";
     geonames:nearby <http://irail.be/stations/NMBS/008821238>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b27;
-    locn:geometry _:e_g27.
-_:e_b27 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles27;
-    ext:voertuigDocksBeschikbaar _:e_docks27;
-    prov:generatedAtTime "2021-01-03T08:20:18.554Z"^^xsd:date.
-_:e_vehicles27 a ext:VoertuigenBeschikbaar;
-    ext:aantal "4"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b26;
+    locn:geometry _:e_g26.
+_:e_b26 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles26;
+    ext:voertuigDocksBeschikbaar _:e_docks26;
+    prov:generatedAtTime "2021-01-21T07:40:18.129Z"^^xsd:date.
+_:e_vehicles26 a ext:VoertuigenBeschikbaar;
+    ext:aantal "5"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks27 a ext:DocksBeschikbaar;
+_:e_docks26 a ext:DocksBeschikbaar;
     ext:aantal "7"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type27 a trips:Resourcetype;
+_:e_type26 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g27 a geo:Point;
+_:e_g26 a geo:Point;
     geo:long "4.456E0"^^xsd:float;
     geo:lat "5.11712E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Namen> a ext:Station;
     rdfs:label "Namen";
     geonames:nearby <http://irail.be/stations/NMBS/008863008>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b28;
-    locn:geometry _:e_g28.
-_:e_b28 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles28;
-    ext:voertuigDocksBeschikbaar _:e_docks28;
-    prov:generatedAtTime "2021-01-03T08:20:18.989Z"^^xsd:date.
-_:e_vehicles28 a ext:VoertuigenBeschikbaar;
-    ext:aantal "1"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b27;
+    locn:geometry _:e_g27.
+_:e_b27 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles27;
+    ext:voertuigDocksBeschikbaar _:e_docks27;
+    prov:generatedAtTime "2021-01-21T07:40:18.555Z"^^xsd:date.
+_:e_vehicles27 a ext:VoertuigenBeschikbaar;
+    ext:aantal "4"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks28 a ext:DocksBeschikbaar;
-    ext:aantal "5"^^xsd:integer;
+_:e_docks27 a ext:DocksBeschikbaar;
+    ext:aantal "4"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type28 a trips:Resourcetype;
+_:e_type27 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g28 a geo:Point;
+_:e_g27 a geo:Point;
     geo:long "4.86224E0"^^xsd:float;
     geo:lat "5.04686E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Oostende> a ext:Station;
     rdfs:label "Oostende";
     geonames:nearby <http://irail.be/stations/NMBS/008891702>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b29;
-    locn:geometry _:e_g29.
-_:e_b29 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles29;
-    ext:voertuigDocksBeschikbaar _:e_docks29;
-    prov:generatedAtTime "2021-01-03T08:20:19.520Z"^^xsd:date.
-_:e_vehicles29 a ext:VoertuigenBeschikbaar;
-    ext:aantal "49"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b28;
+    locn:geometry _:e_g28.
+_:e_b28 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles28;
+    ext:voertuigDocksBeschikbaar _:e_docks28;
+    prov:generatedAtTime "2021-01-21T07:40:19.005Z"^^xsd:date.
+_:e_vehicles28 a ext:VoertuigenBeschikbaar;
+    ext:aantal "46"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks29 a ext:DocksBeschikbaar;
-    ext:aantal "66"^^xsd:integer;
+_:e_docks28 a ext:DocksBeschikbaar;
+    ext:aantal "58"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type29 a trips:Resourcetype;
+_:e_type28 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g29 a geo:Point;
+_:e_g28 a geo:Point;
     geo:long "2.92565E0"^^xsd:float;
     geo:lat "5.12283E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Roeselare> a ext:Station;
     rdfs:label "Roeselare";
     geonames:nearby <http://irail.be/stations/NMBS/008896800>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b30;
-    locn:geometry _:e_g30.
-_:e_b30 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles30;
-    ext:voertuigDocksBeschikbaar _:e_docks30;
-    prov:generatedAtTime "2021-01-03T08:20:19.958Z"^^xsd:date.
-_:e_vehicles30 a ext:VoertuigenBeschikbaar;
-    ext:aantal "24"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b29;
+    locn:geometry _:e_g29.
+_:e_b29 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles29;
+    ext:voertuigDocksBeschikbaar _:e_docks29;
+    prov:generatedAtTime "2021-01-21T07:40:19.437Z"^^xsd:date.
+_:e_vehicles29 a ext:VoertuigenBeschikbaar;
+    ext:aantal "17"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks30 a ext:DocksBeschikbaar;
-    ext:aantal "25"^^xsd:integer;
+_:e_docks29 a ext:DocksBeschikbaar;
+    ext:aantal "26"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type30 a trips:Resourcetype;
+_:e_type29 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g30 a geo:Point;
+_:e_g29 a geo:Point;
     geo:long "3.13048E0"^^xsd:float;
     geo:lat "5.0949E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Sint-Niklaas> a ext:Station;
     rdfs:label "Sint-Niklaas";
     geonames:nearby <http://irail.be/stations/NMBS/008894508>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b31;
-    locn:geometry _:e_g31.
-_:e_b31 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles31;
-    ext:voertuigDocksBeschikbaar _:e_docks31;
-    prov:generatedAtTime "2021-01-03T08:20:20.401Z"^^xsd:date.
-_:e_vehicles31 a ext:VoertuigenBeschikbaar;
-    ext:aantal "30"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b30;
+    locn:geometry _:e_g30.
+_:e_b30 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles30;
+    ext:voertuigDocksBeschikbaar _:e_docks30;
+    prov:generatedAtTime "2021-01-21T07:40:19.890Z"^^xsd:date.
+_:e_vehicles30 a ext:VoertuigenBeschikbaar;
+    ext:aantal "17"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks31 a ext:DocksBeschikbaar;
-    ext:aantal "33"^^xsd:integer;
+_:e_docks30 a ext:DocksBeschikbaar;
+    ext:aantal "32"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type31 a trips:Resourcetype;
+_:e_type30 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g31 a geo:Point;
+_:e_g30 a geo:Point;
     geo:long "4.1437E0"^^xsd:float;
     geo:lat "5.11714E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Sint-Truiden> a ext:Station;
     rdfs:label "Sint-Truiden";
     geonames:nearby <http://irail.be/stations/NMBS/008831807>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b32;
-    locn:geometry _:e_g32.
-_:e_b32 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles32;
-    ext:voertuigDocksBeschikbaar _:e_docks32;
-    prov:generatedAtTime "2021-01-03T08:20:20.837Z"^^xsd:date.
-_:e_vehicles32 a ext:VoertuigenBeschikbaar;
-    ext:aantal "8"^^xsd:integer;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks32 a ext:DocksBeschikbaar;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b31;
+    locn:geometry _:e_g31.
+_:e_b31 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles31;
+    ext:voertuigDocksBeschikbaar _:e_docks31;
+    prov:generatedAtTime "2021-01-21T07:40:20.310Z"^^xsd:date.
+_:e_vehicles31 a ext:VoertuigenBeschikbaar;
     ext:aantal "9"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type32 a trips:Resourcetype;
+_:e_docks31 a ext:DocksBeschikbaar;
+    ext:aantal "9"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
+_:e_type31 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g32 a geo:Point;
+_:e_g31 a geo:Point;
     geo:long "5.17633E0"^^xsd:float;
     geo:lat "5.08174E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Torhout> a ext:Station;
     rdfs:label "Torhout";
     geonames:nearby <http://irail.be/stations/NMBS/008891314>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b33;
-    locn:geometry _:e_g33.
-_:e_b33 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles33;
-    ext:voertuigDocksBeschikbaar _:e_docks33;
-    prov:generatedAtTime "2021-01-03T08:20:21.263Z"^^xsd:date.
-_:e_vehicles33 a ext:VoertuigenBeschikbaar;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b32;
+    locn:geometry _:e_g32.
+_:e_b32 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles32;
+    ext:voertuigDocksBeschikbaar _:e_docks32;
+    prov:generatedAtTime "2021-01-21T07:40:20.732Z"^^xsd:date.
+_:e_vehicles32 a ext:VoertuigenBeschikbaar;
     ext:aantal "6"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks33 a ext:DocksBeschikbaar;
+_:e_docks32 a ext:DocksBeschikbaar;
     ext:aantal "6"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type33 a trips:Resourcetype;
+_:e_type32 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g33 a geo:Point;
+_:e_g32 a geo:Point;
     geo:long "3.10551E0"^^xsd:float;
     geo:lat "5.10648E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Turnhout> a ext:Station;
     rdfs:label "Turnhout";
     geonames:nearby <http://irail.be/stations/NMBS/008821907>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b34;
-    locn:geometry _:e_g34.
-_:e_b34 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles34;
-    ext:voertuigDocksBeschikbaar _:e_docks34;
-    prov:generatedAtTime "2021-01-03T08:20:21.691Z"^^xsd:date.
-_:e_vehicles34 a ext:VoertuigenBeschikbaar;
-    ext:aantal "14"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b33;
+    locn:geometry _:e_g33.
+_:e_b33 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles33;
+    ext:voertuigDocksBeschikbaar _:e_docks33;
+    prov:generatedAtTime "2021-01-21T07:40:21.162Z"^^xsd:date.
+_:e_vehicles33 a ext:VoertuigenBeschikbaar;
+    ext:aantal "15"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks34 a ext:DocksBeschikbaar;
+_:e_docks33 a ext:DocksBeschikbaar;
     ext:aantal "16"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type34 a trips:Resourcetype;
+_:e_type33 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g34 a geo:Point;
+_:e_g33 a geo:Point;
     geo:long "4.9379E0"^^xsd:float;
     geo:lat "5.13221E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Vilvoorde> a ext:Station;
     rdfs:label "Vilvoorde";
     geonames:nearby <http://irail.be/stations/NMBS/008811189>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b35;
-    locn:geometry _:e_g35.
-_:e_b35 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles35;
-    ext:voertuigDocksBeschikbaar _:e_docks35;
-    prov:generatedAtTime "2021-01-03T08:20:22.142Z"^^xsd:date.
-_:e_vehicles35 a ext:VoertuigenBeschikbaar;
-    ext:aantal "40"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b34;
+    locn:geometry _:e_g34.
+_:e_b34 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles34;
+    ext:voertuigDocksBeschikbaar _:e_docks34;
+    prov:generatedAtTime "2021-01-21T07:40:21.602Z"^^xsd:date.
+_:e_vehicles34 a ext:VoertuigenBeschikbaar;
+    ext:aantal "27"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks35 a ext:DocksBeschikbaar;
-    ext:aantal "44"^^xsd:integer;
+_:e_docks34 a ext:DocksBeschikbaar;
+    ext:aantal "43"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type35 a trips:Resourcetype;
+_:e_type34 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g35 a geo:Point;
+_:e_g34 a geo:Point;
     geo:long "4.433E0"^^xsd:float;
     geo:lat "5.09247E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Waregem> a ext:Station;
     rdfs:label "Waregem";
     geonames:nearby <http://irail.be/stations/NMBS/008896149>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b36;
-    locn:geometry _:e_g36.
-_:e_b36 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles36;
-    ext:voertuigDocksBeschikbaar _:e_docks36;
-    prov:generatedAtTime "2021-01-03T08:20:22.573Z"^^xsd:date.
-_:e_vehicles36 a ext:VoertuigenBeschikbaar;
-    ext:aantal "15"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b35;
+    locn:geometry _:e_g35.
+_:e_b35 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles35;
+    ext:voertuigDocksBeschikbaar _:e_docks35;
+    prov:generatedAtTime "2021-01-21T07:40:22.024Z"^^xsd:date.
+_:e_vehicles35 a ext:VoertuigenBeschikbaar;
+    ext:aantal "12"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks36 a ext:DocksBeschikbaar;
+_:e_docks35 a ext:DocksBeschikbaar;
     ext:aantal "16"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type36 a trips:Resourcetype;
+_:e_type35 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g36 a geo:Point;
+_:e_g35 a geo:Point;
     geo:long "3.42442E0"^^xsd:float;
     geo:lat "5.08918E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Eeklo> a ext:Station;
     rdfs:label "Eeklo";
     geonames:nearby <http://irail.be/stations/NMBS/008893708>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b37;
-    locn:geometry _:e_g37.
-_:e_b37 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles37;
-    ext:voertuigDocksBeschikbaar _:e_docks37;
-    prov:generatedAtTime "2021-01-03T08:20:22.999Z"^^xsd:date.
-_:e_vehicles37 a ext:VoertuigenBeschikbaar;
-    ext:aantal "9"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b36;
+    locn:geometry _:e_g36.
+_:e_b36 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles36;
+    ext:voertuigDocksBeschikbaar _:e_docks36;
+    prov:generatedAtTime "2021-01-21T07:40:22.451Z"^^xsd:date.
+_:e_vehicles36 a ext:VoertuigenBeschikbaar;
+    ext:aantal "5"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks37 a ext:DocksBeschikbaar;
+_:e_docks36 a ext:DocksBeschikbaar;
     ext:aantal "14"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type37 a trips:Resourcetype;
+_:e_type36 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g37 a geo:Point;
+_:e_g36 a geo:Point;
     geo:long "3.57504E0"^^xsd:float;
     geo:lat "5.11808E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Geel> a ext:Station;
     rdfs:label "Geel";
     geonames:nearby <http://irail.be/stations/NMBS/008832433>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b38;
-    locn:geometry _:e_g38.
-_:e_b38 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles38;
-    ext:voertuigDocksBeschikbaar _:e_docks38;
-    prov:generatedAtTime "2021-01-03T08:20:23.428Z"^^xsd:date.
-_:e_vehicles38 a ext:VoertuigenBeschikbaar;
-    ext:aantal "16"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b37;
+    locn:geometry _:e_g37.
+_:e_b37 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles37;
+    ext:voertuigDocksBeschikbaar _:e_docks37;
+    prov:generatedAtTime "2021-01-21T07:40:22.892Z"^^xsd:date.
+_:e_vehicles37 a ext:VoertuigenBeschikbaar;
+    ext:aantal "14"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks38 a ext:DocksBeschikbaar;
+_:e_docks37 a ext:DocksBeschikbaar;
     ext:aantal "18"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type38 a trips:Resourcetype;
+_:e_type37 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g38 a geo:Point;
+_:e_g37 a geo:Point;
     geo:long "4.98916E0"^^xsd:float;
     geo:lat "5.11688E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Ninove> a ext:Station;
     rdfs:label "Ninove";
     geonames:nearby <http://irail.be/stations/NMBS/008895760>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b39;
-    locn:geometry _:e_g39.
-_:e_b39 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles39;
-    ext:voertuigDocksBeschikbaar _:e_docks39;
-    prov:generatedAtTime "2021-01-03T08:20:23.854Z"^^xsd:date.
-_:e_vehicles39 a ext:VoertuigenBeschikbaar;
-    ext:aantal "9"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b38;
+    locn:geometry _:e_g38.
+_:e_b38 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles38;
+    ext:voertuigDocksBeschikbaar _:e_docks38;
+    prov:generatedAtTime "2021-01-21T07:40:23.318Z"^^xsd:date.
+_:e_vehicles38 a ext:VoertuigenBeschikbaar;
+    ext:aantal "10"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks39 a ext:DocksBeschikbaar;
+_:e_docks38 a ext:DocksBeschikbaar;
     ext:aantal "12"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type39 a trips:Resourcetype;
+_:e_type38 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g39 a geo:Point;
+_:e_g38 a geo:Point;
     geo:long "4.02618E0"^^xsd:float;
     geo:lat "5.08395E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Heist-op-den-Berg> a ext:Station;
     rdfs:label "Heist-op-den-Berg";
     geonames:nearby <http://irail.be/stations/NMBS/008821832>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b40;
-    locn:geometry _:e_g40.
-_:e_b40 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles40;
-    ext:voertuigDocksBeschikbaar _:e_docks40;
-    prov:generatedAtTime "2021-01-03T08:20:24.279Z"^^xsd:date.
-_:e_vehicles40 a ext:VoertuigenBeschikbaar;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b39;
+    locn:geometry _:e_g39.
+_:e_b39 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles39;
+    ext:voertuigDocksBeschikbaar _:e_docks39;
+    prov:generatedAtTime "2021-01-21T07:40:23.741Z"^^xsd:date.
+_:e_vehicles39 a ext:VoertuigenBeschikbaar;
+    ext:aantal "8"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
+_:e_docks39 a ext:DocksBeschikbaar;
     ext:aantal "14"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks40 a ext:DocksBeschikbaar;
-    ext:aantal "14"^^xsd:integer;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type40 a trips:Resourcetype;
+_:e_type39 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g40 a geo:Point;
+_:e_g39 a geo:Point;
     geo:long "4.70878E0"^^xsd:float;
     geo:lat "5.10742E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Tongeren> a ext:Station;
     rdfs:label "Tongeren";
     geonames:nearby <http://irail.be/stations/NMBS/008831310>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b41;
-    locn:geometry _:e_g41.
-_:e_b41 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles41;
-    ext:voertuigDocksBeschikbaar _:e_docks41;
-    prov:generatedAtTime "2021-01-03T08:20:24.702Z"^^xsd:date.
-_:e_vehicles41 a ext:VoertuigenBeschikbaar;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b40;
+    locn:geometry _:e_g40.
+_:e_b40 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles40;
+    ext:voertuigDocksBeschikbaar _:e_docks40;
+    prov:generatedAtTime "2021-01-21T07:40:24.176Z"^^xsd:date.
+_:e_vehicles40 a ext:VoertuigenBeschikbaar;
     ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks41 a ext:DocksBeschikbaar;
+_:e_docks40 a ext:DocksBeschikbaar;
     ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type41 a trips:Resourcetype;
+_:e_type40 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g41 a geo:Point;
+_:e_g40 a geo:Point;
     geo:long "5.4734E0"^^xsd:float;
     geo:lat "5.07845E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Mechelen-Nekkerspoel> a ext:Station;
     rdfs:label "Mechelen-Nekkerspoel";
     geonames:nearby <http://irail.be/stations/NMBS/008822343>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b42;
-    locn:geometry _:e_g42.
-_:e_b42 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles42;
-    ext:voertuigDocksBeschikbaar _:e_docks42;
-    prov:generatedAtTime "2021-01-03T08:20:25.137Z"^^xsd:date.
-_:e_vehicles42 a ext:VoertuigenBeschikbaar;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b41;
+    locn:geometry _:e_g41.
+_:e_b41 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles41;
+    ext:voertuigDocksBeschikbaar _:e_docks41;
+    prov:generatedAtTime "2021-01-21T07:40:24.601Z"^^xsd:date.
+_:e_vehicles41 a ext:VoertuigenBeschikbaar;
+    ext:aantal "9"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
+_:e_docks41 a ext:DocksBeschikbaar;
     ext:aantal "11"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks42 a ext:DocksBeschikbaar;
-    ext:aantal "12"^^xsd:integer;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type42 a trips:Resourcetype;
+_:e_type41 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g42 a geo:Point;
+_:e_g41 a geo:Point;
     geo:long "4.48957E0"^^xsd:float;
     geo:lat "5.10302E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Oudenaarde> a ext:Station;
     rdfs:label "Oudenaarde ";
     geonames:nearby <http://irail.be/stations/NMBS/008892601>;
     ext:mobiliteitsdienst dienst:blue_bike;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b42;
+    locn:geometry _:e_g42.
+_:e_b42 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles42;
+    ext:voertuigDocksBeschikbaar _:e_docks42;
+    prov:generatedAtTime "2021-01-21T07:40:25.021Z"^^xsd:date.
+_:e_vehicles42 a ext:VoertuigenBeschikbaar;
+    ext:aantal "5"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
+_:e_docks42 a ext:DocksBeschikbaar;
+    ext:aantal "7"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
+_:e_type42 a trips:Resourcetype;
+    rdfs:label "stadsfiets"@nl.
+_:e_g42 a geo:Point;
+    geo:long "3.60188E0"^^xsd:float;
+    geo:lat "5.08513E1"^^xsd:float.
+<http://irail.be/stations/bluebike/Geraardsbergen> a ext:Station;
+    rdfs:label "Geraardsbergen ";
+    geonames:nearby <http://irail.be/stations/NMBS/008895505>;
+    ext:mobiliteitsdienst dienst:blue_bike;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b43;
     locn:geometry _:e_g43.
 _:e_b43 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles43;
     ext:voertuigDocksBeschikbaar _:e_docks43;
-    prov:generatedAtTime "2021-01-03T08:20:25.565Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T07:40:25.438Z"^^xsd:date.
 _:e_vehicles43 a ext:VoertuigenBeschikbaar;
-    ext:aantal "5"^^xsd:integer;
+    ext:aantal "6"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks43 a ext:DocksBeschikbaar;
     ext:aantal "6"^^xsd:integer;
@@ -936,52 +936,52 @@ _:e_docks43 a ext:DocksBeschikbaar;
 _:e_type43 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
 _:e_g43 a geo:Point;
-    geo:long "3.60188E0"^^xsd:float;
-    geo:lat "5.08513E1"^^xsd:float.
-<http://irail.be/stations/bluebike/Geraardsbergen> a ext:Station;
-    rdfs:label "Geraardsbergen ";
-    geonames:nearby <http://irail.be/stations/NMBS/008895505>;
-    ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b44;
-    locn:geometry _:e_g44.
-_:e_b44 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles44;
-    ext:voertuigDocksBeschikbaar _:e_docks44;
-    prov:generatedAtTime "2021-01-03T08:20:25.986Z"^^xsd:date.
-_:e_vehicles44 a ext:VoertuigenBeschikbaar;
-    ext:aantal "6"^^xsd:integer;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks44 a ext:DocksBeschikbaar;
-    ext:aantal "6"^^xsd:integer;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type44 a trips:Resourcetype;
-    rdfs:label "stadsfiets"@nl.
-_:e_g44 a geo:Point;
     geo:long "3.87256E0"^^xsd:float;
     geo:lat "5.07705E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Ieper> a ext:Station;
     rdfs:label "Ieper";
     geonames:nearby <http://irail.be/stations/NMBS/008896503>;
     ext:mobiliteitsdienst dienst:blue_bike;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b44;
+    locn:geometry _:e_g44.
+_:e_b44 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles44;
+    ext:voertuigDocksBeschikbaar _:e_docks44;
+    prov:generatedAtTime "2021-01-21T07:40:25.882Z"^^xsd:date.
+_:e_vehicles44 a ext:VoertuigenBeschikbaar;
+    ext:aantal "6"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
+_:e_docks44 a ext:DocksBeschikbaar;
+    ext:aantal "11"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
+_:e_type44 a trips:Resourcetype;
+    rdfs:label "stadsfiets"@nl.
+_:e_g44 a geo:Point;
+    geo:long "2.87627E0"^^xsd:float;
+    geo:lat "5.08484E1"^^xsd:float.
+<http://irail.be/stations/bluebike/LierVeemarkt> a ext:Station;
+    rdfs:label "Lier Veemarkt";
+    geonames:nearby <http://irail.be/stations/NMBS/008821600>;
+    ext:mobiliteitsdienst dienst:blue_bike;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b45;
     locn:geometry _:e_g45.
 _:e_b45 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles45;
     ext:voertuigDocksBeschikbaar _:e_docks45;
-    prov:generatedAtTime "2021-01-03T08:20:26.419Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T07:40:26.298Z"^^xsd:date.
 _:e_vehicles45 a ext:VoertuigenBeschikbaar;
-    ext:aantal "10"^^xsd:integer;
+    ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks45 a ext:DocksBeschikbaar;
-    ext:aantal "11"^^xsd:integer;
+    ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_type45 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
 _:e_g45 a geo:Point;
-    geo:long "2.87627E0"^^xsd:float;
-    geo:lat "5.08484E1"^^xsd:float.
-<http://irail.be/stations/bluebike/LierVeemarkt> a ext:Station;
-    rdfs:label "Lier Veemarkt";
+    geo:long "4.58322E0"^^xsd:float;
+    geo:lat "5.11283E1"^^xsd:float.
+<http://irail.be/stations/bluebike/LierP%2BR%20De%20Mol> a ext:Station;
+    rdfs:label "Lier P+R De Mol";
     geonames:nearby <http://irail.be/stations/NMBS/008821600>;
     ext:mobiliteitsdienst dienst:blue_bike;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b46;
@@ -989,9 +989,9 @@ _:e_g45 a geo:Point;
 _:e_b46 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles46;
     ext:voertuigDocksBeschikbaar _:e_docks46;
-    prov:generatedAtTime "2021-01-03T08:20:26.840Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T07:40:26.711Z"^^xsd:date.
 _:e_vehicles46 a ext:VoertuigenBeschikbaar;
-    ext:aantal "8"^^xsd:integer;
+    ext:aantal "7"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks46 a ext:DocksBeschikbaar;
     ext:aantal "8"^^xsd:integer;
@@ -999,430 +999,430 @@ _:e_docks46 a ext:DocksBeschikbaar;
 _:e_type46 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
 _:e_g46 a geo:Point;
-    geo:long "4.58322E0"^^xsd:float;
-    geo:lat "5.11283E1"^^xsd:float.
-<http://irail.be/stations/bluebike/LierP%2BR%20De%20Mol> a ext:Station;
-    rdfs:label "Lier P+R De Mol";
-    geonames:nearby <http://irail.be/stations/NMBS/008821600>;
-    ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b47;
-    locn:geometry _:e_g47.
-_:e_b47 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles47;
-    ext:voertuigDocksBeschikbaar _:e_docks47;
-    prov:generatedAtTime "2021-01-03T08:20:27.288Z"^^xsd:date.
-_:e_vehicles47 a ext:VoertuigenBeschikbaar;
-    ext:aantal "8"^^xsd:integer;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks47 a ext:DocksBeschikbaar;
-    ext:aantal "8"^^xsd:integer;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type47 a trips:Resourcetype;
-    rdfs:label "stadsfiets"@nl.
-_:e_g47 a geo:Point;
     geo:long "4.57334E0"^^xsd:float;
     geo:lat "5.11253E1"^^xsd:float.
 <http://irail.be/stations/bluebike/BoechoutP%2BR%20Capenberg> a ext:Station;
     rdfs:label "Boechout P+R Capenberg";
     geonames:nearby <http://irail.be/stations/NMBS/008821634>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b48;
-    locn:geometry _:e_g48.
-_:e_b48 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles48;
-    ext:voertuigDocksBeschikbaar _:e_docks48;
-    prov:generatedAtTime "2021-01-03T08:20:27.709Z"^^xsd:date.
-_:e_vehicles48 a ext:VoertuigenBeschikbaar;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b47;
+    locn:geometry _:e_g47.
+_:e_b47 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles47;
+    ext:voertuigDocksBeschikbaar _:e_docks47;
+    prov:generatedAtTime "2021-01-21T07:40:27.128Z"^^xsd:date.
+_:e_vehicles47 a ext:VoertuigenBeschikbaar;
     ext:aantal "5"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks48 a ext:DocksBeschikbaar;
+_:e_docks47 a ext:DocksBeschikbaar;
     ext:aantal "5"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type48 a trips:Resourcetype;
+_:e_type47 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g48 a geo:Point;
+_:e_g47 a geo:Point;
     geo:long "4.49408E0"^^xsd:float;
     geo:lat "5.11685E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Aalter> a ext:Station;
     rdfs:label "Aalter";
     geonames:nearby <http://irail.be/stations/NMBS/008891140>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b49;
-    locn:geometry _:e_g49.
-_:e_b49 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles49;
-    ext:voertuigDocksBeschikbaar _:e_docks49;
-    prov:generatedAtTime "2021-01-03T08:20:28.127Z"^^xsd:date.
-_:e_vehicles49 a ext:VoertuigenBeschikbaar;
-    ext:aantal "5"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b48;
+    locn:geometry _:e_g48.
+_:e_b48 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles48;
+    ext:voertuigDocksBeschikbaar _:e_docks48;
+    prov:generatedAtTime "2021-01-21T07:40:27.557Z"^^xsd:date.
+_:e_vehicles48 a ext:VoertuigenBeschikbaar;
+    ext:aantal "6"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks49 a ext:DocksBeschikbaar;
+_:e_docks48 a ext:DocksBeschikbaar;
     ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type49 a trips:Resourcetype;
+_:e_type48 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g49 a geo:Point;
+_:e_g48 a geo:Point;
     geo:long "3.44982E0"^^xsd:float;
     geo:lat "5.10925E1"^^xsd:float.
 <http://irail.be/stations/bluebike/DeinzeLeiespiegel> a ext:Station;
     rdfs:label "Deinze Leiespiegel";
     geonames:nearby <http://irail.be/stations/NMBS/008892106>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b50;
-    locn:geometry _:e_g50.
-_:e_b50 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles50;
-    ext:voertuigDocksBeschikbaar _:e_docks50;
-    prov:generatedAtTime "2021-01-03T08:20:28.550Z"^^xsd:date.
-_:e_vehicles50 a ext:VoertuigenBeschikbaar;
-    ext:aantal "9"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b49;
+    locn:geometry _:e_g49.
+_:e_b49 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles49;
+    ext:voertuigDocksBeschikbaar _:e_docks49;
+    prov:generatedAtTime "2021-01-21T07:40:27.985Z"^^xsd:date.
+_:e_vehicles49 a ext:VoertuigenBeschikbaar;
+    ext:aantal "12"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks50 a ext:DocksBeschikbaar;
-    ext:aantal "10"^^xsd:integer;
+_:e_docks49 a ext:DocksBeschikbaar;
+    ext:aantal "12"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type50 a trips:Resourcetype;
+_:e_type49 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g50 a geo:Point;
+_:e_g49 a geo:Point;
     geo:long "3.52592E0"^^xsd:float;
     geo:lat "5.09824E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Tienen> a ext:Station;
     rdfs:label "Tienen ";
     geonames:nearby <http://irail.be/stations/NMBS/008833308>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b51;
-    locn:geometry _:e_g51.
-_:e_b51 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles51;
-    ext:voertuigDocksBeschikbaar _:e_docks51;
-    prov:generatedAtTime "2021-01-03T08:20:28.976Z"^^xsd:date.
-_:e_vehicles51 a ext:VoertuigenBeschikbaar;
-    ext:aantal "9"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b50;
+    locn:geometry _:e_g50.
+_:e_b50 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles50;
+    ext:voertuigDocksBeschikbaar _:e_docks50;
+    prov:generatedAtTime "2021-01-21T07:40:28.404Z"^^xsd:date.
+_:e_vehicles50 a ext:VoertuigenBeschikbaar;
+    ext:aantal "12"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks51 a ext:DocksBeschikbaar;
-    ext:aantal "14"^^xsd:integer;
+_:e_docks50 a ext:DocksBeschikbaar;
+    ext:aantal "15"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type51 a trips:Resourcetype;
+_:e_type50 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g51 a geo:Point;
+_:e_g50 a geo:Point;
     geo:long "4.92561E0"^^xsd:float;
     geo:lat "5.08082E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Poperinge> a ext:Station;
     rdfs:label "Poperinge";
     geonames:nearby <http://irail.be/stations/NMBS/008896735>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b52;
-    locn:geometry _:e_g52.
-_:e_b52 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles52;
-    ext:voertuigDocksBeschikbaar _:e_docks52;
-    prov:generatedAtTime "2021-01-03T08:20:29.409Z"^^xsd:date.
-_:e_vehicles52 a ext:VoertuigenBeschikbaar;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b51;
+    locn:geometry _:e_g51.
+_:e_b51 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles51;
+    ext:voertuigDocksBeschikbaar _:e_docks51;
+    prov:generatedAtTime "2021-01-21T07:40:28.823Z"^^xsd:date.
+_:e_vehicles51 a ext:VoertuigenBeschikbaar;
     ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks52 a ext:DocksBeschikbaar;
+_:e_docks51 a ext:DocksBeschikbaar;
     ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type52 a trips:Resourcetype;
+_:e_type51 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g52 a geo:Point;
+_:e_g51 a geo:Point;
     geo:long "2.73572E0"^^xsd:float;
     geo:lat "5.08545E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Noorderkempen> a ext:Station;
     rdfs:label "Noorderkempen";
     geonames:nearby <http://irail.be/stations/NMBS/008821105>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b53;
-    locn:geometry _:e_g53.
-_:e_b53 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles53;
-    ext:voertuigDocksBeschikbaar _:e_docks53;
-    prov:generatedAtTime "2021-01-03T08:20:29.830Z"^^xsd:date.
-_:e_vehicles53 a ext:VoertuigenBeschikbaar;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b52;
+    locn:geometry _:e_g52.
+_:e_b52 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles52;
+    ext:voertuigDocksBeschikbaar _:e_docks52;
+    prov:generatedAtTime "2021-01-21T07:40:29.282Z"^^xsd:date.
+_:e_vehicles52 a ext:VoertuigenBeschikbaar;
     ext:aantal "12"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks53 a ext:DocksBeschikbaar;
+_:e_docks52 a ext:DocksBeschikbaar;
     ext:aantal "12"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type53 a trips:Resourcetype;
+_:e_type52 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g53 a geo:Point;
+_:e_g52 a geo:Point;
     geo:long "4.63241E0"^^xsd:float;
     geo:lat "5.13571E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Heide> a ext:Station;
     rdfs:label "Heide";
     geonames:nearby <http://irail.be/stations/NMBS/008821519>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b54;
-    locn:geometry _:e_g54.
-_:e_b54 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles54;
-    ext:voertuigDocksBeschikbaar _:e_docks54;
-    prov:generatedAtTime "2021-01-03T08:20:30.254Z"^^xsd:date.
-_:e_vehicles54 a ext:VoertuigenBeschikbaar;
-    ext:aantal "8"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b53;
+    locn:geometry _:e_g53.
+_:e_b53 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles53;
+    ext:voertuigDocksBeschikbaar _:e_docks53;
+    prov:generatedAtTime "2021-01-21T07:40:29.704Z"^^xsd:date.
+_:e_vehicles53 a ext:VoertuigenBeschikbaar;
+    ext:aantal "13"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks54 a ext:DocksBeschikbaar;
-    ext:aantal "12"^^xsd:integer;
+_:e_docks53 a ext:DocksBeschikbaar;
+    ext:aantal "14"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type54 a trips:Resourcetype;
+_:e_type53 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g54 a geo:Point;
+_:e_g53 a geo:Point;
     geo:long "4.46056E0"^^xsd:float;
     geo:lat "5.13651E1"^^xsd:float.
 <http://irail.be/stations/bluebike/MechelenVeemarkt> a ext:Station;
     rdfs:label "Mechelen Veemarkt";
     geonames:nearby <http://irail.be/stations/NMBS/008822343>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b55;
-    locn:geometry _:e_g55.
-_:e_b55 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles55;
-    ext:voertuigDocksBeschikbaar _:e_docks55;
-    prov:generatedAtTime "2021-01-03T08:20:30.695Z"^^xsd:date.
-_:e_vehicles55 a ext:VoertuigenBeschikbaar;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b54;
+    locn:geometry _:e_g54.
+_:e_b54 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles54;
+    ext:voertuigDocksBeschikbaar _:e_docks54;
+    prov:generatedAtTime "2021-01-21T07:40:30.120Z"^^xsd:date.
+_:e_vehicles54 a ext:VoertuigenBeschikbaar;
+    ext:aantal "5"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
+_:e_docks54 a ext:DocksBeschikbaar;
     ext:aantal "6"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks55 a ext:DocksBeschikbaar;
-    ext:aantal "6"^^xsd:integer;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type55 a trips:Resourcetype;
+_:e_type54 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g55 a geo:Point;
+_:e_g54 a geo:Point;
     geo:long "4.48432E0"^^xsd:float;
     geo:lat "5.10293E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Kontich-Lint> a ext:Station;
     rdfs:label "Kontich-Lint";
     geonames:nearby <http://irail.be/stations/NMBS/008821311>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b56;
-    locn:geometry _:e_g56.
-_:e_b56 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles56;
-    ext:voertuigDocksBeschikbaar _:e_docks56;
-    prov:generatedAtTime "2021-01-03T08:20:31.120Z"^^xsd:date.
-_:e_vehicles56 a ext:VoertuigenBeschikbaar;
-    ext:aantal "6"^^xsd:integer;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks56 a ext:DocksBeschikbaar;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b55;
+    locn:geometry _:e_g55.
+_:e_b55 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles55;
+    ext:voertuigDocksBeschikbaar _:e_docks55;
+    prov:generatedAtTime "2021-01-21T07:40:30.542Z"^^xsd:date.
+_:e_vehicles55 a ext:VoertuigenBeschikbaar;
     ext:aantal "9"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type56 a trips:Resourcetype;
+_:e_docks55 a ext:DocksBeschikbaar;
+    ext:aantal "9"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
+_:e_type55 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g56 a geo:Point;
+_:e_g55 a geo:Point;
     geo:long "4.47612E0"^^xsd:float;
     geo:lat "5.11343E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Tielt> a ext:Station;
     rdfs:label "Tielt";
     geonames:nearby <http://irail.be/stations/NMBS/008892254>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b57;
-    locn:geometry _:e_g57.
-_:e_b57 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles57;
-    ext:voertuigDocksBeschikbaar _:e_docks57;
-    prov:generatedAtTime "2021-01-03T08:20:31.535Z"^^xsd:date.
-_:e_vehicles57 a ext:VoertuigenBeschikbaar;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b56;
+    locn:geometry _:e_g56.
+_:e_b56 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles56;
+    ext:voertuigDocksBeschikbaar _:e_docks56;
+    prov:generatedAtTime "2021-01-21T07:40:30.961Z"^^xsd:date.
+_:e_vehicles56 a ext:VoertuigenBeschikbaar;
     ext:aantal "7"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks57 a ext:DocksBeschikbaar;
+_:e_docks56 a ext:DocksBeschikbaar;
     ext:aantal "7"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type57 a trips:Resourcetype;
+_:e_type56 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g57 a geo:Point;
+_:e_g56 a geo:Point;
     geo:long "3.32982E0"^^xsd:float;
     geo:lat "5.09906E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Zaventem> a ext:Station;
     rdfs:label "Zaventem";
     geonames:nearby <http://irail.be/stations/NMBS/008811221>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b58;
-    locn:geometry _:e_g58.
-_:e_b58 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles58;
-    ext:voertuigDocksBeschikbaar _:e_docks58;
-    prov:generatedAtTime "2021-01-03T08:20:31.975Z"^^xsd:date.
-_:e_vehicles58 a ext:VoertuigenBeschikbaar;
-    ext:aantal "7"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b57;
+    locn:geometry _:e_g57.
+_:e_b57 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles57;
+    ext:voertuigDocksBeschikbaar _:e_docks57;
+    prov:generatedAtTime "2021-01-21T07:40:31.378Z"^^xsd:date.
+_:e_vehicles57 a ext:VoertuigenBeschikbaar;
+    ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks58 a ext:DocksBeschikbaar;
-    ext:aantal "10"^^xsd:integer;
+_:e_docks57 a ext:DocksBeschikbaar;
+    ext:aantal "9"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type58 a trips:Resourcetype;
+_:e_type57 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g58 a geo:Point;
+_:e_g57 a geo:Point;
     geo:long "4.47087E0"^^xsd:float;
     geo:lat "5.08852E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Antwerpen-Zuid> a ext:Station;
     rdfs:label "Antwerpen-Zuid";
     geonames:nearby <http://irail.be/stations/NMBS/008821196>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b59;
-    locn:geometry _:e_g59.
-_:e_b59 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles59;
-    ext:voertuigDocksBeschikbaar _:e_docks59;
-    prov:generatedAtTime "2021-01-03T08:20:32.401Z"^^xsd:date.
-_:e_vehicles59 a ext:VoertuigenBeschikbaar;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b58;
+    locn:geometry _:e_g58.
+_:e_b58 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles58;
+    ext:voertuigDocksBeschikbaar _:e_docks58;
+    prov:generatedAtTime "2021-01-21T07:40:31.797Z"^^xsd:date.
+_:e_vehicles58 a ext:VoertuigenBeschikbaar;
+    ext:aantal "5"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
+_:e_docks58 a ext:DocksBeschikbaar;
     ext:aantal "6"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks59 a ext:DocksBeschikbaar;
-    ext:aantal "6"^^xsd:integer;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type59 a trips:Resourcetype;
+_:e_type58 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g59 a geo:Point;
+_:e_g58 a geo:Point;
     geo:long "4.39081E0"^^xsd:float;
     geo:lat "5.1198E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Izegem> a ext:Station;
     rdfs:label "Izegem";
     geonames:nearby <http://irail.be/stations/NMBS/008896909>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b60;
-    locn:geometry _:e_g60.
-_:e_b60 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles60;
-    ext:voertuigDocksBeschikbaar _:e_docks60;
-    prov:generatedAtTime "2021-01-03T08:20:32.828Z"^^xsd:date.
-_:e_vehicles60 a ext:VoertuigenBeschikbaar;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b59;
+    locn:geometry _:e_g59.
+_:e_b59 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles59;
+    ext:voertuigDocksBeschikbaar _:e_docks59;
+    prov:generatedAtTime "2021-01-21T07:40:32.223Z"^^xsd:date.
+_:e_vehicles59 a ext:VoertuigenBeschikbaar;
     ext:aantal "10"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks60 a ext:DocksBeschikbaar;
-    ext:aantal "10"^^xsd:integer;
+_:e_docks59 a ext:DocksBeschikbaar;
+    ext:aantal "11"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type60 a trips:Resourcetype;
+_:e_type59 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g60 a geo:Point;
+_:e_g59 a geo:Point;
     geo:long "3.21482E0"^^xsd:float;
     geo:lat "5.09209E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Gent-Sint-Pieters(M.%20Hendrikaplein)> a ext:Station;
     rdfs:label "Gent-Sint-Pieters (M. Hendrikaplein)";
     geonames:nearby <http://irail.be/stations/NMBS/008892007>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b61;
-    locn:geometry _:e_g61.
-_:e_b61 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles61;
-    ext:voertuigDocksBeschikbaar _:e_docks61;
-    prov:generatedAtTime "2021-01-03T08:20:33.320Z"^^xsd:date.
-_:e_vehicles61 a ext:VoertuigenBeschikbaar;
-    ext:aantal "59"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b60;
+    locn:geometry _:e_g60.
+_:e_b60 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles60;
+    ext:voertuigDocksBeschikbaar _:e_docks60;
+    prov:generatedAtTime "2021-01-21T07:40:32.665Z"^^xsd:date.
+_:e_vehicles60 a ext:VoertuigenBeschikbaar;
+    ext:aantal "45"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks61 a ext:DocksBeschikbaar;
-    ext:aantal "62"^^xsd:integer;
+_:e_docks60 a ext:DocksBeschikbaar;
+    ext:aantal "47"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type61 a trips:Resourcetype;
+_:e_type60 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g61 a geo:Point;
+_:e_g60 a geo:Point;
     geo:long "3.7119E0"^^xsd:float;
     geo:lat "5.1036E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Leuven(Kop%20van%20Kessel-Lo)> a ext:Station;
     rdfs:label "Leuven (Kop van Kessel-Lo)";
     geonames:nearby <http://irail.be/stations/NMBS/008833001>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b62;
-    locn:geometry _:e_g62.
-_:e_b62 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles62;
-    ext:voertuigDocksBeschikbaar _:e_docks62;
-    prov:generatedAtTime "2021-01-03T08:20:33.741Z"^^xsd:date.
-_:e_vehicles62 a ext:VoertuigenBeschikbaar;
-    ext:aantal "15"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b61;
+    locn:geometry _:e_g61.
+_:e_b61 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles61;
+    ext:voertuigDocksBeschikbaar _:e_docks61;
+    prov:generatedAtTime "2021-01-21T07:40:33.095Z"^^xsd:date.
+_:e_vehicles61 a ext:VoertuigenBeschikbaar;
+    ext:aantal "12"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks62 a ext:DocksBeschikbaar;
-    ext:aantal "22"^^xsd:integer;
+_:e_docks61 a ext:DocksBeschikbaar;
+    ext:aantal "23"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type62 a trips:Resourcetype;
+_:e_type61 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g62 a geo:Point;
+_:e_g61 a geo:Point;
     geo:long "4.71664E0"^^xsd:float;
     geo:lat "5.08825E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Brugge(Kamgebouw)> a ext:Station;
     rdfs:label "Brugge (Kamgebouw)";
     geonames:nearby <http://irail.be/stations/NMBS/008891009>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b63;
-    locn:geometry _:e_g63.
-_:e_b63 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles63;
-    ext:voertuigDocksBeschikbaar _:e_docks63;
-    prov:generatedAtTime "2021-01-03T08:20:34.177Z"^^xsd:date.
-_:e_vehicles63 a ext:VoertuigenBeschikbaar;
-    ext:aantal "28"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b62;
+    locn:geometry _:e_g62.
+_:e_b62 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles62;
+    ext:voertuigDocksBeschikbaar _:e_docks62;
+    prov:generatedAtTime "2021-01-21T07:40:33.530Z"^^xsd:date.
+_:e_vehicles62 a ext:VoertuigenBeschikbaar;
+    ext:aantal "26"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks63 a ext:DocksBeschikbaar;
+_:e_docks62 a ext:DocksBeschikbaar;
     ext:aantal "31"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type63 a trips:Resourcetype;
+_:e_type62 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g63 a geo:Point;
+_:e_g62 a geo:Point;
     geo:long "3.21608E0"^^xsd:float;
     geo:lat "5.11968E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Beveren> a ext:Station;
     rdfs:label "Beveren";
     geonames:nearby <http://irail.be/stations/NMBS/008894748>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b64;
-    locn:geometry _:e_g64.
-_:e_b64 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles64;
-    ext:voertuigDocksBeschikbaar _:e_docks64;
-    prov:generatedAtTime "2021-01-03T08:20:34.601Z"^^xsd:date.
-_:e_vehicles64 a ext:VoertuigenBeschikbaar;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b63;
+    locn:geometry _:e_g63.
+_:e_b63 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles63;
+    ext:voertuigDocksBeschikbaar _:e_docks63;
+    prov:generatedAtTime "2021-01-21T07:40:33.976Z"^^xsd:date.
+_:e_vehicles63 a ext:VoertuigenBeschikbaar;
     ext:aantal "11"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks64 a ext:DocksBeschikbaar;
+_:e_docks63 a ext:DocksBeschikbaar;
     ext:aantal "14"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type64 a trips:Resourcetype;
+_:e_type63 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g64 a geo:Point;
+_:e_g63 a geo:Point;
     geo:long "4.26026E0"^^xsd:float;
     geo:lat "5.12085E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Heverlee> a ext:Station;
     rdfs:label "Heverlee ";
     geonames:nearby <http://irail.be/stations/NMBS/008833126>;
     ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b65;
-    locn:geometry _:e_g65.
-_:e_b65 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles65;
-    ext:voertuigDocksBeschikbaar _:e_docks65;
-    prov:generatedAtTime "2021-01-03T08:20:35.023Z"^^xsd:date.
-_:e_vehicles65 a ext:VoertuigenBeschikbaar;
-    ext:aantal "3"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b64;
+    locn:geometry _:e_g64.
+_:e_b64 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles64;
+    ext:voertuigDocksBeschikbaar _:e_docks64;
+    prov:generatedAtTime "2021-01-21T07:40:34.430Z"^^xsd:date.
+_:e_vehicles64 a ext:VoertuigenBeschikbaar;
+    ext:aantal "9"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks65 a ext:DocksBeschikbaar;
+_:e_docks64 a ext:DocksBeschikbaar;
     ext:aantal "11"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type65 a trips:Resourcetype;
+_:e_type64 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
-_:e_g65 a geo:Point;
+_:e_g64 a geo:Point;
     geo:long "4.69544E0"^^xsd:float;
     geo:lat "5.08626E1"^^xsd:float.
 <http://irail.be/stations/bluebike/Harelbeke> a ext:Station;
     rdfs:label "Harelbeke";
     geonames:nearby <http://irail.be/stations/NMBS/008896115>;
     ext:mobiliteitsdienst dienst:blue_bike;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b65;
+    locn:geometry _:e_g65.
+_:e_b65 a trips:Beschikbaarheid;
+    ext:voertuigTypesBeschikbaar _:e_vehicles65;
+    ext:voertuigDocksBeschikbaar _:e_docks65;
+    prov:generatedAtTime "2021-01-21T07:40:34.854Z"^^xsd:date.
+_:e_vehicles65 a ext:VoertuigenBeschikbaar;
+    ext:aantal "12"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
+_:e_docks65 a ext:DocksBeschikbaar;
+    ext:aantal "12"^^xsd:integer;
+    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
+_:e_type65 a trips:Resourcetype;
+    rdfs:label "stadsfiets"@nl.
+_:e_g65 a geo:Point;
+    geo:long "3.31374E0"^^xsd:float;
+    geo:lat "5.08557E1"^^xsd:float.
+<http://irail.be/stations/bluebike/Gavere-Asper> a ext:Station;
+    rdfs:label "Gavere-Asper";
+    geonames:nearby <http://irail.be/stations/NMBS/008892643>;
+    ext:mobiliteitsdienst dienst:blue_bike;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b66;
     locn:geometry _:e_g66.
 _:e_b66 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles66;
     ext:voertuigDocksBeschikbaar _:e_docks66;
-    prov:generatedAtTime "2021-01-03T08:20:35.444Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T07:40:35.281Z"^^xsd:date.
 _:e_vehicles66 a ext:VoertuigenBeschikbaar;
-    ext:aantal "12"^^xsd:integer;
+    ext:aantal "7"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks66 a ext:DocksBeschikbaar;
-    ext:aantal "12"^^xsd:integer;
+    ext:aantal "8"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_type66 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
 _:e_g66 a geo:Point;
-    geo:long "3.31374E0"^^xsd:float;
-    geo:lat "5.08557E1"^^xsd:float.
-<http://irail.be/stations/bluebike/Gavere-Asper> a ext:Station;
-    rdfs:label "Gavere-Asper";
+    geo:long "3.64013E0"^^xsd:float;
+    geo:lat "5.09294E1"^^xsd:float.
+<http://irail.be/stations/bluebike/Gaveremobipunt> a ext:Station;
+    rdfs:label "Gavere mobipunt";
     geonames:nearby <http://irail.be/stations/NMBS/008892643>;
     ext:mobiliteitsdienst dienst:blue_bike;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b67;
@@ -1430,36 +1430,15 @@ _:e_g66 a geo:Point;
 _:e_b67 a trips:Beschikbaarheid;
     ext:voertuigTypesBeschikbaar _:e_vehicles67;
     ext:voertuigDocksBeschikbaar _:e_docks67;
-    prov:generatedAtTime "2021-01-03T08:20:35.933Z"^^xsd:date.
+    prov:generatedAtTime "2021-01-21T07:40:35.706Z"^^xsd:date.
 _:e_vehicles67 a ext:VoertuigenBeschikbaar;
-    ext:aantal "8"^^xsd:integer;
+    ext:aantal "6"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_docks67 a ext:DocksBeschikbaar;
-    ext:aantal "8"^^xsd:integer;
+    ext:aantal "6"^^xsd:integer;
     <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
 _:e_type67 a trips:Resourcetype;
     rdfs:label "stadsfiets"@nl.
 _:e_g67 a geo:Point;
-    geo:long "3.64013E0"^^xsd:float;
-    geo:lat "5.09294E1"^^xsd:float.
-<http://irail.be/stations/bluebike/Gaveremobipunt> a ext:Station;
-    rdfs:label "Gavere mobipunt";
-    geonames:nearby <http://irail.be/stations/NMBS/008892643>;
-    ext:mobiliteitsdienst dienst:blue_bike;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Transportobject.beschikbaarheid> _:e_b68;
-    locn:geometry _:e_g68.
-_:e_b68 a trips:Beschikbaarheid;
-    ext:voertuigTypesBeschikbaar _:e_vehicles68;
-    ext:voertuigDocksBeschikbaar _:e_docks68;
-    prov:generatedAtTime "2021-01-03T08:20:36.365Z"^^xsd:date.
-_:e_vehicles68 a ext:VoertuigenBeschikbaar;
-    ext:aantal "6"^^xsd:integer;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_docks68 a ext:DocksBeschikbaar;
-    ext:aantal "6"^^xsd:integer;
-    <https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod#Resource.vervoermiddel> <https://stijnbrysbaert.github.io/OSLO-extension/vehicle_types.ttl#bicycle>.
-_:e_type68 a trips:Resourcetype;
-    rdfs:label "stadsfiets"@nl.
-_:e_g68 a geo:Point;
     geo:long "3.65469E0"^^xsd:float;
     geo:lat "5.09305E1"^^xsd:float.

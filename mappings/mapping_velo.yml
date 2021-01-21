@@ -25,8 +25,9 @@ mappings:
       - ['velo.json~jsonpath', '$.velos[*]']
     s: ex:$(id)
     po:
-      - [a, [ext:Station, dc:Location]]
+      - [a, [ext:Station]]
       - [rdfs:label, $(name.value)]
+      - [ext:mobiliteitsdienst, dienst:velo~iri]
       - p: locn:geometry
         o:
           mapping: location
